@@ -8,7 +8,7 @@ fileClass: Machine
 #machine
 
 ## Operation system - Linux
-<img style = "max-width:70px" src = "app://local//home/axel/Escritorio/HTNotes/HTB//.res/linux.png">
+<img style = "max-width:70px" src = "app://local//home/axel/Escritorio/HTNotes/HTB//.res/Linux.png">
 
 ## Metadata
 
@@ -129,19 +129,19 @@ data:
       count: 52
 
     - folder: "EASY"
-      count: 234
+      count: 235
       
     - folder: "NOT TO EASY"
-      count: 586
+      count: 588
       
     - folder: "MEDIUM"
-      count: 938
+      count: 942
      
     - folder: "A BIT HARD"
       count: 392
       
     - folder: "HARD"
-      count: 195
+      count: 196
       
     - folder: "EXTREMELY HARD"
       count: 55

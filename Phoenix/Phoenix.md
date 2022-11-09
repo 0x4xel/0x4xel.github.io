@@ -8,7 +8,7 @@ fileClass: Machine
 #machine
 
 ## Operation system - Linux
-<img style = "max-width:70px" src = "app://local//home/axel/Escritorio/HTNotes/HTB//.res/linux.png">
+<img style = "max-width:70px" src = "app://local//home/axel/Escritorio/HTNotes/HTB//.res/Linux.png">
 
 ## Metadata
 
