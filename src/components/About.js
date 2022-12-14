@@ -1,6 +1,9 @@
+import { useTranslation } from "next-i18next";
+
 export const About = () => {
+  const { t } = useTranslation("common");
   return (
-    <div className="section about" id="next_section">
+    <div className="section about" id="section-about">
       <div className="content content-box">
         {/* image */}
         <div className="image">
@@ -9,37 +12,34 @@ export const About = () => {
         {/* desc */}
         <div className="desc">
           <p>
-            Hello! I’m Daniel Curry. Web designer from USA, California, San
-            Francisco. I have rich experience in web site design and building,
-            also I am good at wordpress. I love to talk with you about our
-            unique.
+            {t("about.descripcion")}
           </p>
           <div className="info-list">
             <ul>
               <li>
-                <strong>Age:</strong> 24
+                <strong>{t("about.edad_titulo")}</strong> {t("about.edad")}
               </li>
               <li>
-                <strong>Residence:</strong> USA
+                <strong>{t("about.residencia_titulo")}</strong> {t("about.residencia")}
               </li>
               <li>
-                <strong>Freelance:</strong> Available
+                <strong>{t("about.estado_titulo")}</strong> {t("about.estado")}
               </li>
               <li>
-                <strong>Address:</strong> San Francisco
+                <strong>{t("about.direccion_titulo")}</strong> {t("about.direccion")}
               </li>
               <li>
-                <strong>Phone:</strong> +1 256 254 84 56
+                <strong>{t("about.telefono_titulo")}</strong> {t("about.telefono")}
               </li>
               <li>
-                <strong>E-mail:</strong> alejandroa@gmail.com
+                <strong>{t("about.email_titulo")}</strong> {t("about.email")}
               </li>
             </ul>
           </div>
           <div className="bts">
             <a href="#" className="btn hover-animated">
               <span className="circle" />
-              <span className="lnk">Download CV</span>
+              <span className="lnk">{t("about.descarga_cv")}</span>
             </a>
           </div>
         </div>

@@ -1,6 +1,9 @@
 import TypingAnimation from "./TypingAnimation";
-import Layout from "../layout/Layout";
+import { useTranslation } from "next-i18next";
+
+
 export const IndexPersonal = () => {
+  const { t } = useTranslation("common");
   return (
     
       <div className="section started personal" id="section-started">
@@ -18,9 +21,9 @@ export const IndexPersonal = () => {
                 style={{ backgroundImage: "url(images/man.jpg)" }}
               />
               <h1 className="h-title">
-                Hello, I’m <strong>Alejandro Abeyta</strong>, UX/UI Designer and{" "}
+                {t("saludo")} <strong>{t("nombre")} {t("apellido")}</strong>, {t("full_stack_developer")}{" "}
                 <br />
-                Front-end Developer Based in San Francisco.
+                {t("pentester_at_ey")}
               </h1>
               <TypingAnimation extraClassName={"typed-subtitle"} />
               <span className="typed-subtitle" />

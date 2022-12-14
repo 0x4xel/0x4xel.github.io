@@ -7,6 +7,7 @@ import { cursor, stickyNav } from "../utils";
 import Footer from "./Footer";
 import Header from "./Header";
 import Preloader from "./Preloader";
+import { useTranslation } from "next-i18next";
 const Layout = ({ children, noHeader }) => {
   useEffect(() => {
     cursor();
@@ -14,7 +15,7 @@ const Layout = ({ children, noHeader }) => {
   useEffect(() => {
     window.addEventListener("scroll", stickyNav);
   }, []);
-
+  const { t } = useTranslation("common");
   return (
     <Fragment>
       <VideoPopup />

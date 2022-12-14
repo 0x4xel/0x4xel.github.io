@@ -1,0 +1,99 @@
+{  
+    "nombre": "Axel",
+    "apellido": "Losantos",
+    "CV": "CV",
+    "descarga" : "Descarga",
+    "saludo": "¡Hola!, soy",
+    "navegacion": {
+        "home" : "Home",
+        "about" : "A cerca de",
+        "skills" : "Skills",
+        "resume" : "Resumen",
+        "contact" : "Contacto",
+        "blog" : "Blog"
+    },
+
+    "full_stack_developer": "Full Stack Developer y",
+    "pentester_at_ey": "pentester en EY.",
+    "animacion": {
+        "animacion1": "Soy Desarrollador",
+        "animacion2": "Soy Pentester",
+        "animacion3": "Se me da mejor <strong>romper cosas<strong> que hacerlas"
+    },
+    "about": {
+        "descripcion": "Hello! Im Lorem Ipsum Web designer from USA, California, San Francisco. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about ourunique.",
+        "edad_titulo": "Edad:",
+        "edad": "23",
+        "residencia_titulo": "Residencia:",
+        "residencia":"Madrid, España",
+        "estado_titulo":"Estado Profesional:",
+        "estado": "Ocupado",
+        "direccion_titulo": "Dirección:",
+        "direccion": "Madrid y alrededores",
+        "telefono_titulo": "Teléfono:",
+        "telefono": "Sin publicar",
+        "email_titulo": "E-mail:",
+        "email": "0x4xel@gmail.com",
+        "descarga_cv": "Descarga CV"
+    },
+    "custom_text": {
+        "titulo": "Un poquito mas sobre mi",
+        "descripcionlarga1": "TODO",
+        "descripcionlarga2": "TODO"
+    },
+    "coding_skills": {
+        "titulo": "Skills",
+        "rueda1": "rueda1",
+        "porcentaje_rueda1": "80%",
+        "rueda2": "rueda2",
+        "porcentaje_rueda2": "70%",
+        "rueda3": "rueda3",
+        "porcentaje_rueda3": "50%",
+        "rueda4": "rueda4",
+        "porcentaje_rueda4": "40%"
+    },
+    "knowledge_skills" : {
+        "titulo": "Conocimientos",
+        "knowledge1": "TODO",
+        "knowledge2": "TODO",
+        "knowledge3": "TODO",
+        "knowledge4": "TODO",
+        "knowledge5": "TODO",
+        "knowledge6": "TODO",
+        "knowledge7": "TODO",
+        "knowledge8": "TODO"
+    },
+
+    "social_media": {
+        "titulo": "Redes sociales",
+        "media1_titulo": "",
+        "media1": "",
+        "media2_titulo": "",
+        "media2": "",
+        "media3_titulo": "",
+        "media3": "",
+        "media4_titulo": "",
+        "media4": ""
+    },
+    "contacto": {
+        "titulo": "Contacto",
+        "telefono_titulo": "Teléfono:",
+        "telefono": "Sin publicar",
+        "email_titulo": "E-mail:",
+        "mailtoemail": "mailto:0x4xel@gmail.com",
+        "email": "0x4xel@gmail.com",
+        "direccion_titulo": "Dirección:",
+        "direccion": "Madrid y alrededores",
+        "estado_titulo":"Estado Profesional:",
+        "estado": "Ocupado"
+    },
+
+    "footer": {
+        "email": "E: 0x4xel@gmail.com",
+        "telefono":"T: Sin publicar",
+        "sigueme": "Sigueme en",
+        "url1": "",
+        "url2": "",
+        "url3": ""
+    }
+}

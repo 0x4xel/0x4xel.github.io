@@ -64,7 +64,7 @@ export const BlogPost = () => {
     ];
       
     return (
-    <div className="section blog">
+    <div className="section blog" id = "section-blog">
         <div className="content">
 
           <div className="title"><div className="title_inner">Latest Posts</div></div>
