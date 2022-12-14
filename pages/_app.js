@@ -1,6 +1,7 @@
 import Head from "next/head";
 import { Fragment } from "react";
 import "../styles/globals.css";
+import { Analytics } from '@vercel/analytics/react';
 
 function MyApp({ Component, pageProps }) {
   return (
@@ -25,6 +26,7 @@ function MyApp({ Component, pageProps }) {
         <link rel="shortcut icon" href="images/favicons/favicon.ico" />
       </Head>
       <Component {...pageProps} />
+      <Analytics />
     </Fragment>
   );
 }

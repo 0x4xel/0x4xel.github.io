@@ -8,15 +8,18 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
+    "export": "next build && next export",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d public"
+    "deploy": "gh-pages -d .next"
   },
   "dependencies": {
+    "@vercel/analytics": "^0.1.6",
     "grained": "^0.0.2",
     "isotope-layout": "^3.0.6",
     "jarallax": "^2.0.4",
     "next": "^12.3.0",
     "parallax-js": "^3.1.0",
+    "pushstate-server": "^3.1.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "simple-parallax-js": "^5.6.2",
