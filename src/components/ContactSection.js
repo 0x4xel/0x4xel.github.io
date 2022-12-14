@@ -58,3 +58,5 @@ export const ContactSection = () => {
     </Fragment>
   );
 };
+
+export default ContactSection;

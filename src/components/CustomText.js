@@ -28,3 +28,4 @@ export const CustomText = () => {
   );
 };
 
+export default CustomText;

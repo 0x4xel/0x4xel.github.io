@@ -8,10 +8,10 @@ exports.modules = {
 
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "HN": () => (/* binding */ CreativePageBanner),
-/* harmony export */   "Y0": () => (/* binding */ MapBanner),
 /* harmony export */   "bK": () => (/* binding */ DefaultPageBanner),
 /* harmony export */   "kU": () => (/* binding */ ImagePageBanner)
 /* harmony export */ });
+/* unused harmony export MapBanner */
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(997);
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6689);
@@ -174,16 +174,16 @@ const CreativePageBanner = ({ pageName , pageTitle , typingData , extraClass ,  
     });
 };
 const MapBanner = ({ typingData , extraClass  })=>{
-    return /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
+    return /*#__PURE__*/ _jsxs("div", {
         className: "section started section-title",
         id: "section-started",
         children: [
-            /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
+            /*#__PURE__*/ _jsxs("div", {
                 className: "video-bg",
                 children: [
-                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                    /*#__PURE__*/ _jsx("div", {
                         className: "map",
-                        children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("iframe", {
+                        children: /*#__PURE__*/ _jsx("iframe", {
                             src: "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d136834.1519573059!2d-74.0154445224086!3d40.7260256534837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1639991650837!5m2!1sen!2sbd",
                             style: {
                                 border: 0,
@@ -194,27 +194,27 @@ const MapBanner = ({ typingData , extraClass  })=>{
                             loading: "lazy"
                         })
                     }),
-                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                    /*#__PURE__*/ _jsx("div", {
                         className: "video-bg-mask"
                     }),
-                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                    /*#__PURE__*/ _jsx("div", {
                         className: "video-bg-texture",
                         id: "grained_container"
                     })
                 ]
             }),
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+            /*#__PURE__*/ _jsx("div", {
                 className: "centrize full-width",
-                children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                children: /*#__PURE__*/ _jsx("div", {
                     className: "vertical-center",
-                    children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
+                    children: /*#__PURE__*/ _jsxs("div", {
                         className: "started-content",
                         children: [
-                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h1", {
+                            /*#__PURE__*/ _jsx("h1", {
                                 className: "h-title",
                                 children: "Contacts"
                             }),
-                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(AnimationText, {
+                            /*#__PURE__*/ _jsx(AnimationText, {
                                 typingData: typingData,
                                 extraClass: extraClass
                             })
@@ -222,10 +222,10 @@ const MapBanner = ({ typingData , extraClass  })=>{
                     })
                 })
             }),
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
+            /*#__PURE__*/ _jsx("a", {
                 href: "#next_section",
                 className: "mouse_btn",
-                children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
+                children: /*#__PURE__*/ _jsx("span", {
                     className: "icon fas fa-chevron-down"
                 })
             })

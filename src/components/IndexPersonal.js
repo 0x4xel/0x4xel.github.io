@@ -30,3 +30,5 @@ export const IndexPersonal = () => {
       </div>
   );
 };
+
+export default IndexPersonal;

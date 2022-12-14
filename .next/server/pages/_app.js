@@ -34,7 +34,7 @@ function MyApp({ Component , pageProps  }) {
             /*#__PURE__*/ (0,jsx_runtime_.jsxs)((head_default()), {
                 children: [
                     /*#__PURE__*/ jsx_runtime_.jsx("title", {
-                        children: "Cvio - Resume/CV React NextJS Template"
+                        children: "0x4xel - Personal Blog"
                     }),
                     /*#__PURE__*/ jsx_runtime_.jsx("link", {
                         href: "https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap&subset=cyrillic",

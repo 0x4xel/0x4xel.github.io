@@ -154,3 +154,5 @@ const BlogCol = ({ post: { title, body,
         </div>
     );
 };
+
+export default BlogPost;

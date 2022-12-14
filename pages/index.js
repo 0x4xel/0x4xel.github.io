@@ -1,7 +1,6 @@
 import dynamic from "next/dynamic";
 import { useEffect } from "react";
 import { CodingSkills, DesignSkills, KnowledgeSkills } from "../src/components/Skills";
-import Testimonials from "../src/components/Testimonials";
 import { BlogPost } from "../src/components/BlogPost";
 import { About } from "../src/components/About";
 import { CustomText } from "../src/components/CustomText";
