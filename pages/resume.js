@@ -10,7 +10,6 @@ import {
   CodingSkills,
   DesignSkills,
   KnowledgeSkills,
-  LanguagesSkills,
 } from "../src/components/Skills";
 import Team from "../src/components/Team";
 import Testimonials from "../src/components/Testimonials";
@@ -33,8 +32,6 @@ const Resume = () => {
       <ResumeSection />
       {/* Section Design Skills */}
       <DesignSkills />
-      {/* Section Languages Skills */}
-      <LanguagesSkills />
       {/* Section Coding Skills */}
       <CodingSkills />
       {/* Section Knowledge Skills */}
