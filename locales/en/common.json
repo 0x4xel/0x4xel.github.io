@@ -21,13 +21,13 @@
         "animacion3": "Se me da mejor <strong>romper cosas<strong> que hacerlas"
     },
     "about": {
-        "descripcion": "Hello! Im Lorem Ipsum Web designer from USA, California, San Francisco. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about ourunique.",
+        "descripcion": "¡Hola! Que gusto verte por aquí. Soy Axel, desarrollador y pentester. Gracias a mi recorrido profesional, experiencia y tiempo dedicado, considero que tengo altas capacidades en el ambito de la informática. Aun así, me considero un novato en otras muchas.  ",
         "edad_titulo": "Edad:",
         "edad": "23",
         "residencia_titulo": "Residencia:",
         "residencia":"Madrid, España",
         "estado_titulo":"Estado Profesional:",
-        "estado": "Ocupado",
+        "estado": "Pentester en EY",
         "direccion_titulo": "Dirección:",
         "direccion": "Madrid y alrededores",
         "telefono_titulo": "Teléfono:",
@@ -39,7 +39,8 @@
     "custom_text": {
         "titulo": "Un poquito mas sobre mi",
         "descripcionlarga1": "TODO",
-        "descripcionlarga2": "TODO"
+        "descripcionlarga2": "TODO",
+        "descripcionlarga3": "TODO"
     },
     "coding_skills": {
         "titulo": "Skills",

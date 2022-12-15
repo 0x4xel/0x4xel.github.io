@@ -4508,3 +4508,9 @@ object {
   max-width: 200px;
   min-height: 150px !important;
 }
+.cita {
+  font-size: 23px;
+  font-weight: bold;
+  font-style: italic;
+
+}

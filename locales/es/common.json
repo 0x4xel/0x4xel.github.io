@@ -23,13 +23,13 @@
         "animacion3": "Se me da mejor <strong>romper cosas<strong>"
     },
     "about": {
-        "descripcion": "Hello! Im Lorem Ipsum Web designer from USA, California, San Francisco. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about ourunique.",
+        "descripcion": "¡Hola! Que gusto verte por aquí. Soy Axel, una persona que iba para desarrollador pero acabó replanteandoselo, viendo que tenia mas posibilidades como pentester al reventar todo lo que producía.",
         "edad_titulo": "Edad:",
         "edad": "23",
         "residencia_titulo": "Residencia:",
         "residencia":"Madrid, España",
         "estado_titulo":"Estado Profesional:",
-        "estado": "Ocupado",
+        "estado": "Pentester en EY",
         "direccion_titulo": "Dirección:",
         "direccion": "Madrid y alrededores",
         "telefono_titulo": "Teléfono:",
@@ -40,8 +40,11 @@
     },
     "custom_text": {
         "titulo": "Un poco sobre mi",
-        "descripcionlarga1": "TODO",
-        "descripcionlarga2": "TODO"
+        "descripcionlarga1": "Podría empezar contando algo gracioso, pero inexplicablemente soy malisimo contando chistes. Cuando nací, se me asignó esta poca cualificación para ello. ",
+        "descripcionlarga2": "A cambio, en el caldero de la personalidad, el señor que estaba encargado de crearme se le debio caer todo el bote de obstinado y cabezón. Y la verdad, le doy gracias por ello. Porque gracias a todo ese exceso soy quien soy hoy en dia. Una persona muy enfocada en su carrera profesional, exigente y responsable. Pero no por ello soy especialmente raro (creo). Me considero una persona abierta y sociable (si salgo de casa), muy agradable pero con una cara dificil.",
+        "descripcionlarga3": "Si hay algo que me guste, es seguir los consejos de grandes personas.Y si me permitís, hare especial mencion a una persona, y le tomaré prestado una frase que me ha marcado.",
+        "cita": "No dejes que nadie se acerque a ti, sin que al irse, se sienta un poquito más mejor y más feliz.",
+        "autora": "Madre Teresa de Calcuta"
     },
     "coding_skills": {
         "titulo": "Skills",
@@ -91,7 +94,7 @@
         "direccion_titulo": "Dirección:",
         "direccion": "Madrid y alrededores",
         "estado_titulo":"Estado Profesional:",
-        "estado": "Ocupado"
+        "estado": "Pentester en EY"
     },
 
     "footer": {

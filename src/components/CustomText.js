@@ -17,6 +17,13 @@ export const CustomText = () => {
             <p>
             {t("custom_text.descripcionlarga2")}
             </p>
+            <p>
+            {t("custom_text.descripcionlarga3")}
+            </p>
+            <blockquote cite="https://es.wikipedia.org/wiki/Teresa_de_Calcuta">
+              <p className="cita">{t("custom_text.cita")}</p>
+              <footer>{t("custom_text.autora")}</footer>
+            </blockquote>
           </div>
         </div>
         <div className="clear" />
