@@ -12,14 +12,14 @@
         "contact" : "Contacto",
         "blog" : "Blog",
         "service": "Redes Sociales",
-        "timeline": "Roadmap"
+        "timeline": "Timeline"
     },
 
     "full_stack_developer": "Full Stack Developer y",
     "pentester_at_ey": "pentester en EY.",
     "animacion": {
-        "animacion1": "Soy Desarrollador",
-        "animacion2": "Soy Pentester",
+        "animacion1": "Desarollador Full Stack",
+        "animacion2": "Junior Pentester",
         "animacion3": "Se me da mejor <strong>romper cosas<strong>"
     },
     "about": {
@@ -106,6 +106,6 @@
         "titulo": "Últimos Posts"
     },
     "roadmap": {
-        "titulo": "Roadmap"
+        "titulo": "Timeline"
     }
 }
