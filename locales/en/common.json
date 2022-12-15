@@ -43,15 +43,15 @@
         "descripcionlarga3": "TODO"
     },
     "coding_skills": {
-        "titulo": "Skills",
-        "rueda1": "rueda1",
+        "titulo": "Certificacions Roadmap",
+        "rueda1": "eCCPTv2",
         "porcentaje_rueda1": "80%",
-        "rueda2": "rueda2",
-        "porcentaje_rueda2": "70%",
-        "rueda3": "rueda3",
-        "porcentaje_rueda3": "50%",
-        "rueda4": "rueda4",
-        "porcentaje_rueda4": "40%"
+        "rueda2": "OSCP",
+        "porcentaje_rueda2": "50%",
+        "rueda3": "CRTO",
+        "porcentaje_rueda3": "10%",
+        "rueda4": "TBD",
+        "porcentaje_rueda4": "0%"
     },
     "knowledge_skills" : {
         "titulo": "Conocimientos",
