@@ -22,6 +22,7 @@
     "parallax-js": "^3.1.0",
     "pushstate-server": "^3.1.0",
     "react": "18.2.0",
+    "react-chrono": "^1.20.0",
     "react-dom": "18.2.0",
     "simple-parallax-js": "^5.6.2",
     "swiper": "^8.3.2",

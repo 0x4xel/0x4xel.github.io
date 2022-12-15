@@ -8,6 +8,7 @@ import Footer from "./Footer";
 import Header from "./Header";
 import Preloader from "./Preloader";
 import { useTranslation } from "next-i18next";
+
 const Layout = ({ children, noHeader }) => {
   useEffect(() => {
     cursor();

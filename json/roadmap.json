@@ -1,0 +1,88 @@
+[        
+    {
+        "title": "Junio 2022",
+        "cardTitle": "Consultor de Ciberseguridad & Junior Pentester",
+        "url": "https://www.ey.com/es_es",
+        "cardSubtitle":"The industry-leading Penetration Testing with Kali Linux (PWK/PEN-200) course just got even better with the addition of five recently retired OSCP exam machines to PWK labs. These five machines represent an entire OSCP exam room! Get more value out of your lab time for the same price, and enjoy extra preparation for the OSCP penetration testing certification.",
+        "cardDetailedText": "",
+        "media": {
+            "type": "IMAGE",
+            "source": {
+                "url": "../images/logos/logo_EY.png"
+            }
+        }
+    },
+
+    {
+        "title": "Junio 2022",
+        "cardTitle": "Grado en Ingeniería Informática",
+        "url": "https://www.unir.net/",
+        "cardSubtitle":"El Grado en Ingeniería Informática online de UNIR, está diseñado para que adquieras los conocimientos teóricos y prácticos en inteligencia artificial, ingeniería del software, diseño de hardware, arquitecturas de red o seguridad de los datos que forman los sistemas informáticos modernos.",
+        "cardDetailedText": "",
+        "media": {
+            "type": "IMAGE",
+            "source": {
+                "url": "../images/logos/logo_unir_azul.jpeg"
+            }
+        }
+    },
+
+    
+    {
+            "title": "Noviembre 2021",
+            "cardTitle": "Curso de Seguridad Informática Ofensiva",
+            "url": "https://www.hackbysecurity.com/",
+            "cardSubtitle":"En este curso el alumno adquirirá los conocimientos y habilidades necesarias para realizar pruebas de penetración y auditorías de seguridad informática pudiendo llegar a desempeñar puesto como el de hacker ético, pentester o auditor de ciberseguridad. Se le introducirán desde los conceptos de hacking básicos hasta la creación de sus propios exploits, pasando por las técnicas de ataque y herramientas más avanzadas y efectivas.",
+            "cardDetailedText": "",
+            "media": {
+                "type": "IMAGE",
+                "source": {
+                    "url": "../images/logos/logo_hackbysecurity.png"
+                }
+            }
+    },
+
+    {
+        "title": "Septiembre 2019",
+        "cardTitle": "Junior FullStack Developer",
+        "url": "https://www.wunderapp.es/",
+        "cardSubtitle":"Encargado del desarrollo de aplicaciones web estáticas (Wordpress) y aplicaciones a medida con Symfony, PHP y Typescript. Desarrollo de aplicaciones móviles con Apache Cordova.",
+        "cardDetailedText": "",
+        "media": {
+            "type": "IMAGE",
+            "source": {
+                "url": "../images/logos/logo_wunderapp_con_fondo2.png"
+            }
+        }
+    },
+     
+    {
+        "title": "Junio 2019",
+        "cardTitle": "Desarrollo de Aplicaciones Multiplataforma (DAM)",
+        "url": "https://iescomercio.com/",
+        "cardSubtitle":"Técnico superior en Desarrollo de Aplicaciones Multiplataforma en IES Comercio (Logroño)",
+        "cardDetailedText": "",
+        "media": {
+            "type": "IMAGE",
+            "source": {
+                "url": "../images/logos/ies_comercio.png"
+            }
+        }
+    },
+
+
+    {
+        "title": "Enero 2019",
+        "cardTitle": "Empleado en prácticas",
+        "url": "https://www.terabyte2003.com/",
+        "cardSubtitle":"Prácticas en la empresa gracias a la formación profesional. Encargado de desarrollo de mantenimientos en C y migraciones de datos a Ruby",
+        "cardDetailedText": "",
+        "media": {
+            "type": "IMAGE",
+            "source": {
+                "url": "../images/logos/logo_terabyte_confondo.png"
+            }
+        }
+
+    }
+]

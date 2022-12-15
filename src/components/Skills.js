@@ -139,7 +139,7 @@ export const KnowledgeSkills = () => {
       <div className="content">
         {/* title */}
         <div className="title">
-          <div className="title_inner">{t("coding_skills.titulo")}</div>
+          <div className="title_inner">{t("knowledge_skills.titulo")}</div>
         </div>
         {/* skills */}
         <div className="skills list content-box">

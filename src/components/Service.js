@@ -13,45 +13,37 @@ export const Service = () => {
           <div className="service-col">
             <div className="service-item content-box">
               <div className="icon">
-                <span className="fas fa-code" />
+                <span className="icon fab fa-github" />
               </div>
               <div className="name">{t("social_media.media1_titulo")}</div>
-              <div className="text">
-              {t("social_media.media1")}
-              </div>
+              <a href ={t("social_media.media1")}>{t("social_media.media1_username")}</a>
             </div>
           </div>
           <div className="service-col">
             <div className="service-item content-box">
               <div className="icon">
-                <span className="fas fa-music" />
+                <span className="icon fab fa-medium" />
               </div>
               <div className="name">{t("social_media.media2_titulo")}</div>
-              <div className="text">
-              {t("social_media.media2")}
-              </div>
+              <a href ={t("social_media.media2")}>{t("social_media.media2_username")}</a>
             </div>
           </div>
           <div className="service-col">
             <div className="service-item content-box">
               <div className="icon">
-                <span className="fas fa-ad" />
+                <span className="icon fab fa-instagram" />
               </div>
               <div className="name">{t("social_media.media3_titulo")}</div>
-              <div className="text">
-              {t("social_media.media3")}
-              </div>
+              <a href ={t("social_media.media3")}>{t("social_media.media3_username")}</a>
             </div>
           </div>
           <div className="service-col">
             <div className="service-item content-box">
               <div className="icon">
-                <span className="fas fa-gamepad" />
+                <span className="icon fab fa-linkedin" />
               </div>
               <div className="name">{t("social_media.media4_titulo")}</div>
-              <div className="text">
-              {t("social_media.media4")}
-              </div>
+              <a href ={t("social_media.media4")}>{t("social_media.media4_username")}</a>
             </div>
           </div>
         </div>

@@ -4473,3 +4473,38 @@ object {
     left: -5px;
   }
 }
+
+
+.roadmap-step{
+	border: 2px solid #4bffa5;
+	background-color: transparent;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.titulo-tarjeta a { 
+  color: #4bffa5;
+  font-weight: 600;
+  text-decoration: underline;
+  outline: none;
+}
+
+.titulo-tarjeta a:hover {
+  color: white;
+}
+
+.ancho100{
+  width: "100%";
+  height: "100%";
+}
+
+.media-tarjeta{
+  max-width: 200px;
+  max-height: 200px;
+  min-height: 150px !important;
+  
+} 
+.media-tarjeta img{
+  max-width: 200px;
+  min-height: 150px !important;
+}

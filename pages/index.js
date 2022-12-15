@@ -12,7 +12,7 @@ import Layout from "../src/layout/Layout";
 import { createSkillsDot, dotResize } from "../src/utils";
 import { useTranslation } from "next-i18next";
 import { serverSideTranslations } from "next-i18next/serverSideTranslations";
-
+import { Timeline } from "../src/components/Timeline";
 // export default function Home...
 
 
@@ -71,10 +71,10 @@ const IndexOnePage = () => {
                     <a href="#section-skills-code">{t("navegacion.skills")}</a>
                   </li>
                   <li className="menu-item">
-                    <a href="#section-services">{t("navegacion.service")}</a>
+                    <a href="#section-timeline">{t("navegacion.timeline")}</a>
                   </li>
                   <li className="menu-item">
-                    <a href="#section-history">{t("navegacion.resume")}</a>
+                    <a href="#section-services">{t("navegacion.service")}</a>
                   </li>
                   <li className="menu-item">
                     <a href="#section-contacts">{t("navegacion.contact")}</a>
@@ -100,10 +100,10 @@ const IndexOnePage = () => {
         <CodingSkills />
         {/* Section Knowledge Skills */}
         <KnowledgeSkills />
+        {/* Section Timeline */}
+        <Timeline />
         {/* Section Service */}
-        <Service/>
-         {/* Section Resume */}
-        <ResumeSection/> 
+        <Service />
         {/* Section Contacts Info */}
         <ContactSection />
         {/* Section Blogs */}

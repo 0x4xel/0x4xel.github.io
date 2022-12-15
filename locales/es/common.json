@@ -6,11 +6,13 @@
     "saludo": "¡Hola!, soy",
     "navegacion": {
         "home" : "Home",
-        "about" : "A cerca de",
+        "about" : "Acerca de",
         "skills" : "Skills",
         "resume" : "Resumen",
         "contact" : "Contacto",
-        "blog" : "Blog"
+        "blog" : "Blog",
+        "service": "Redes Sociales",
+        "timeline": "Roadmap"
     },
 
     "full_stack_developer": "Full Stack Developer y",
@@ -18,7 +20,7 @@
     "animacion": {
         "animacion1": "Soy Desarrollador",
         "animacion2": "Soy Pentester",
-        "animacion3": "Se me da mejor <strong>romper cosas<strong> que hacerlas"
+        "animacion3": "Se me da mejor <strong>romper cosas<strong>"
     },
     "about": {
         "descripcion": "Hello! Im Lorem Ipsum Web designer from USA, California, San Francisco. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about ourunique.",
@@ -37,7 +39,7 @@
         "descarga_cv": "Descarga CV"
     },
     "custom_text": {
-        "titulo": "Un poquito mas sobre mi",
+        "titulo": "Un poco sobre mi",
         "descripcionlarga1": "TODO",
         "descripcionlarga2": "TODO"
     },
@@ -66,14 +68,18 @@
 
     "social_media": {
         "titulo": "Redes sociales",
-        "media1_titulo": "",
-        "media1": "",
-        "media2_titulo": "",
-        "media2": "",
+        "media1_titulo": "Github",
+        "media1_username": "0x4xel",
+        "media1": "https://github.com/0x4xel",
+        "media2_titulo": "Medium",
+        "media2_username": "0xAxel",
+        "media2": "https://medium.com/@0x4xel",
         "media3_titulo": "",
+        "media3_username": "Axel Losantos Lizaso",
         "media3": "",
-        "media4_titulo": "",
-        "media4": ""
+        "media4_titulo": "Linkedin",
+        "media4_username": "Axel Losantos Lizaso",
+        "media4": "https://www.linkedin.com/in/axel-losantos-lizaso-3a1023189/"
     },
     "contacto": {
         "titulo": "Contacto",
@@ -95,5 +101,11 @@
         "url1": "",
         "url2": "",
         "url3": ""
+    },
+    "blogpost": {
+        "titulo": "Últimos Posts"
+    },
+    "roadmap": {
+        "titulo": "Roadmap"
     }
 }
