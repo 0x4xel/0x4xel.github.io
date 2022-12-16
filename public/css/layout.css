@@ -620,7 +620,7 @@
 .section.started .started-content .h-title {
   margin: 0;
   position: absolute;
-  left: calc(20% + 35px);
+  left: calc(0% + 35px);
   bottom: 50px;
   max-width: 560px;
   font-size: 20px;
@@ -4498,9 +4498,9 @@ object {
   height: "100%";
 }
 
-.media-tarjeta{
-  max-width: 200px;
-  max-height: 200px;
-  min-height: 150px !important;
-  
-} 
+.cita {
+  font-size: 23px;
+  font-weight: bold;
+  font-style: italic;
+
+}
