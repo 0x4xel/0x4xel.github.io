@@ -65,72 +65,48 @@ export const CodingSkills = () => {
         {/* skills items */}
         <div className="skills circles content-box">
           <ul>
-            <li>
-              <div className="name">{t("coding_skills.rueda1")}</div>
-              <div className={t("coding_skills.clase_rueda1")}>
-                {" "}
-                {/* p90 = 90% circle fill color */}
-                <div className="percentage">
-                  <span className="percent">{t("coding_skills.porcentaje_rueda1")}</span>
-                </div>
-                <span>{t("coding_skills.porcentaje_rueda1")}</span>
-                <div className="slice">
-                  <div className="bar"></div>
-                  <div className="fill"></div>
-                </div>
-              </div>
-            </li>
-            <li>
-              <div className="name">{t("coding_skills.rueda2")}</div>
-              <div className={t("coding_skills.clase_rueda2")}>
-                {" "}
-                {/* p75 = 75% circle fill color */}
-                <div className="percentage">
-                  <span className="percent">{t("coding_skills.porcentaje_rueda2")}</span>
-                </div>
-                <span>{t("coding_skills.porcentaje_rueda2")}</span>
-                <div className="slice">
-                  <div className="bar"></div>
-                  <div className="fill"></div>
-                </div>
-              </div>
-            </li>
-            <li>
-              <div className="name">{t("coding_skills.rueda3")}</div>
-              <div className={t("coding_skills.clase_rueda3")}>
-                {" "}
-                {/* p85 = 85% circle fill color */}
-                <div className="percentage">
-                  <span className="percent">{t("coding_skills.porcentaje_rueda3")}</span>
-                </div>
-                <span>{t("coding_skills.porcentaje_rueda3")}</span>
-                <div className="slice">
-                  <div className="bar"></div>
-                  <div className="fill"></div>
-                </div>
-              </div>
-            </li>
-            <li>
-              <div className="name">{t("coding_skills.rueda4")}</div>
-              <div className={t("coding_skills.clase_rueda4")}>
-                {" "}
-                {/* p95 = 95% circle fill color */}
-                <div className="percentage">
-                  <span className="percent">{t("coding_skills.porcentaje_rueda4")}</span>
-                </div>
-                <span>{t("coding_skills.porcentaje_rueda4")}</span>
-                <div className="slice">
-                  <div className="bar"></div>
-                  <div className="fill"></div>
-                </div>
-              </div>
-            </li>
+            <Rueda rueda={t("coding_skills.rueda1")} imagen_rueda={t("coding_skills.imagen_rueda1")} clase_rueda={t("coding_skills.clase_rueda1")} porcentaje_rueda={t("coding_skills.porcentaje_rueda1")}/>
+            <Rueda rueda={t("coding_skills.rueda2")} imagen_rueda={t("coding_skills.imagen_rueda2")} clase_rueda={t("coding_skills.clase_rueda2")} porcentaje_rueda={t("coding_skills.porcentaje_rueda2")}/>
+            <Rueda rueda={t("coding_skills.rueda3")} imagen_rueda={t("coding_skills.imagen_rueda3")} clase_rueda={t("coding_skills.clase_rueda3")} porcentaje_rueda={t("coding_skills.porcentaje_rueda3")}/>
+            <Rueda rueda={t("coding_skills.rueda4")} imagen_rueda={t("coding_skills.imagen_rueda4")} clase_rueda={t("coding_skills.clase_rueda4")} porcentaje_rueda={t("coding_skills.porcentaje_rueda4")}/>
+            <Rueda rueda={t("coding_skills.rueda5")} imagen_rueda={t("coding_skills.imagen_rueda5")} clase_rueda={t("coding_skills.clase_rueda5")} porcentaje_rueda={t("coding_skills.porcentaje_rueda5")}/>
+            <Rueda rueda={t("coding_skills.rueda6")} imagen_rueda={t("coding_skills.imagen_rueda6")} clase_rueda={t("coding_skills.clase_rueda6")} porcentaje_rueda={t("coding_skills.porcentaje_rueda6")}/>
+            <Rueda rueda={t("coding_skills.rueda7")} imagen_rueda={t("coding_skills.imagen_rueda7")} clase_rueda={t("coding_skills.clase_rueda7")} porcentaje_rueda={t("coding_skills.porcentaje_rueda7")}/>
+            <Rueda rueda={t("coding_skills.rueda8")} imagen_rueda={t("coding_skills.imagen_rueda8")} clase_rueda={t("coding_skills.clase_rueda8")} porcentaje_rueda={t("coding_skills.porcentaje_rueda8")}/>
           </ul>
         </div>
       </div>
     </div>
   );
 };
+
+
+
+const Rueda = ({rueda,imagen_rueda, clase_rueda,porcentaje_rueda}) => {
+
+  return (
+    <li>
+    <div className="name rueda">
+      <img src={imagen_rueda} alt=""/>
+      <p>{rueda}</p>
+    </div>
+    <div className={clase_rueda}>
+      {" "}
+      {/* p90 = 90% circle fill color */}
+      <div className="percentage">
+        <span className="percent">{porcentaje_rueda}</span>
+      </div>
+      <span>{porcentaje_rueda}</span>
+      <div className="slice">
+        <div className="bar"></div>
+        <div className="fill"></div>
+      </div>
+    </div>
+  </li>
+  )
+
+}
+
 export const KnowledgeSkills = () => {
   const { t } = useTranslation("common");
 

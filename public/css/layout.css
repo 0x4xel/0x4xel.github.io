@@ -4531,3 +4531,12 @@ object {
   overflow: unset !important;
 }
 
+li .rueda{
+  display: inline-block;
+  line-height: 0.25 !important;
+}
+li .rueda p{
+  margin-top:15px !important
+}
+
+
