@@ -43,9 +43,6 @@ const Layout = ({ children, noHeader }) => {
           <div className="content">
             <div className="line-col" />
             <div className="line-col" />
-            <div className="line-col" />
-            <div className="line-col" />
-            <div className="line-col" />
           </div>
         </div>
       </div>

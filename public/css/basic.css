@@ -148,6 +148,12 @@ body.scroll_hidden {
 	vertical-align: top;
 	width: 20%;
 	height: 100vh;
+
+	
+}
+
+.lines .line-col:nth-child(1){
+		width: 10% !important;
 }
 
 .lines .line-col:first-child:before {
@@ -302,7 +308,6 @@ body.scroll_hidden {
 		width: 33.333%;
 	}
 
-	.lines .line-col:nth-child(4),
 	.lines .line-col:nth-child(5) {
 		display: none;
 	}
