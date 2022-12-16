@@ -4478,8 +4478,9 @@ object {
 .roadmap-step{
 	border: 2px solid #4bffa5;
 	background-color: transparent;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  max-height: 400px !important;
+  overflow-y:scroll !important;
+  overflow-x: hidden !important;
 }
 
 .titulo-tarjeta a { 
@@ -4492,7 +4493,10 @@ object {
 .titulo-tarjeta a:hover {
   color: white;
 }
-
+.texto-tarjeta{
+  max-height: 400px !important;
+ 
+}
 .ancho100{
   width: "100%";
   height: "100%";
@@ -4503,4 +4507,15 @@ object {
   font-weight: bold;
   font-style: italic;
 
+}
+
+.media-tarjeta {
+  min-height: 200px !important;
+  padding-top: 5% !important;
+}
+
+@media (max-width: 600px) {
+  .media-tarjeta {
+    min-height: 100px !important;
+  }
 }

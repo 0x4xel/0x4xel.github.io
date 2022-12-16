@@ -11,15 +11,12 @@ export const Timeline = () => {
                 </div>
             <div className="content-box">
                 <div class ="ancho100">
-                    <Chrono items={items} mode="VERTICAL_ALTERNATING" cardHeight="100" scrollable 
+                    <Chrono items={items} mode="VERTICAL_ALTERNATING" useReadMore="true" scrollable  cardHeight="400"
                      classNames={{
                         card: 'roadmap-step',
                         cardTitle: 'titulo-tarjeta',
-                        cardMedia: 'media-tarjeta',
-                        cardSubTitle: 'my-card-subtitle',
-                        cardText: 'titulo-tarjeta',
-                        controls: 'my-controls',
-                        title: 'my-title',
+                        cardText: 'texto-tarjeta',
+                        cardMedia: "media-tarjeta"
                     }}
                     theme={{
                         primary: 'white',
@@ -33,26 +30,6 @@ export const Timeline = () => {
                 </div>
             </div>
             <div className="clear" />
-            </div>
-        </div>
-    )
-};
-
-export const TimelineDiv = ({ post: { title, cardTitle,
-    media }, index }) => {
-    return (
-        <div className="roadmap-step" >
-            <div className="roadmap-head">
-          
-            <div className="feature-list">
-                <ul>
-                  <li>Web Development</li>
-                  <li>Advetising</li>
-                  <li>Game Development</li>
-                  <li className="disable">Music Writing</li>
-                  <li className="disable">Photography</li>
-                </ul>
-              </div>
             </div>
         </div>
     )
