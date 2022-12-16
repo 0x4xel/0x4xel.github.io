@@ -18,17 +18,17 @@
     "full_stack_developer": "Full Stack Developer y",
     "pentester_at_ey": "pentester en EY.",
     "animacion": {
-        "animacion1": "Desarollador Full Stack",
+        "animacion1": "Desarrollador Full Stack",
         "animacion2": "Junior Pentester",
-        "animacion3": "Se me da mejor <strong>romper cosas<strong>"
+        "animacion3": "Experto en <strong>romper cosas<strong>"
     },
     "about": {
         "descripcion": "¡Hola! Que gusto verte por aquí. Soy Axel, una persona que iba para desarrollador pero acabó replanteandoselo, viendo que tenia mas posibilidades como pentester al reventar todo lo que tocaba.",
         "edad_titulo": "Edad:",
         "edad": "23",
-        "residencia_titulo": "Residencia:",
-        "residencia":"Madrid, España",
-        "estado_titulo":"Estado Profesional:",
+        "residencia_titulo": "Provincia Natal:",
+        "residencia":"Navarra, España",
+        "estado_titulo":"Puesto Actual:",
         "estado": "Pentester en EY",
         "direccion_titulo": "Dirección:",
         "direccion": "Madrid y alrededores",
@@ -90,14 +90,14 @@
     },
     "knowledge_skills" : {
         "titulo": "Conocimientos",
-        "knowledge1": "TODO",
-        "knowledge2": "TODO",
-        "knowledge3": "TODO",
-        "knowledge4": "TODO",
-        "knowledge5": "TODO",
-        "knowledge6": "TODO",
-        "knowledge7": "TODO",
-        "knowledge8": "TODO"
+        "knowledge1": "Lenguajes de programación: PHP, Typescript, Js, Java, .NET, Python",
+        "knowledge2": "Uso de herramientas de pentest: nmap, foxyproxy, dirb, gobuster, chisel",
+        "knowledge3": "Gestión de proyectos",
+        "knowledge4": "Entendimiento y ejecución de PoC",
+        "knowledge5": "Desarrollo de Apps web estáticas y dinámicas",
+        "knowledge6": "Desarrollo de auditorias Web, Infra, AD ",
+        "knowledge7": "Nivel medio de inglés hablando, y escrito",
+        "knowledge8": "Uso de herramientas automáticas como Burpsuite, Nessus"
     },
 
     "social_media": {
@@ -124,7 +124,7 @@
         "email": "0x4xel@gmail.com",
         "direccion_titulo": "Dirección:",
         "direccion": "Madrid y alrededores",
-        "estado_titulo":"Estado Profesional:",
+        "estado_titulo":"Puesto Actual:",
         "estado": "Pentester en EY"
     },
 
@@ -132,9 +132,9 @@
         "email": "E: 0x4xel@gmail.com",
         "telefono":"T: Sin publicar",
         "sigueme": "Sigueme en",
-        "url1": "",
-        "url2": "",
-        "url3": ""
+        "url1": "https://www.instagram.com/axelosantos",
+        "url2": "https://medium.com/@0x4xel",
+        "url3": "https://github.com/0x4xel"
     },
     "blogpost": {
         "titulo": "Últimos Posts"

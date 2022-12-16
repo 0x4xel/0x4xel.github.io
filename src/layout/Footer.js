@@ -11,13 +11,13 @@ const Footer = () => {
         <div className="follow-label">{t("footer.sigueme")}</div>
         <div className="soc">
           <a target="_blank" rel="noreferrer" href={t("contacto.url1")}>
-            <span className="icon fab fa-pinterest" />
+            <span className="icon fab fa-linkedin" />
           </a>
           <a target="_blank" rel="noreferrer" href={t("contacto.url2")}>
-            <span className="icon fab fa-instagram" />
+            <span className="icon fab fa-medium" />
           </a>
           <a target="_blank" rel="noreferrer" href={t("contacto.url3")}>
-            <span className="icon fab fa-dribbble" />
+            <span className="icon fab fa-github" />
           </a>
         </div>
       </div>

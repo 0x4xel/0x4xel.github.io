@@ -3662,7 +3662,7 @@ object {
   padding: 0;
   position: fixed;
   bottom: 50px;
-  left: 50px;
+  left: 20px;
   right: 50px;
   width: auto;
   height: 1px;
@@ -4522,6 +4522,9 @@ object {
     overflow-y:scroll !important;
     overflow-x: hidden !important;
   }
+  .lines .line-col:nth-child(1){
+		width: 7% !important;
+}
 }
 
 .fecha-tarjeta{

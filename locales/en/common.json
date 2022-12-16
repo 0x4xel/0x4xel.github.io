@@ -6,27 +6,29 @@
     "saludo": "¡Hola!, soy",
     "navegacion": {
         "home" : "Home",
-        "about" : "A cerca de",
-        "skills" : "Skills",
+        "about" : "Acerca de",
+        "skills" : "Roadmap",
         "resume" : "Resumen",
         "contact" : "Contacto",
-        "blog" : "Blog"
+        "blog" : "Blog",
+        "service": "Redes Sociales",
+        "timeline": "Timeline"
     },
 
     "full_stack_developer": "Full Stack Developer y",
     "pentester_at_ey": "pentester en EY.",
     "animacion": {
-        "animacion1": "Soy Desarrollador",
-        "animacion2": "Soy Pentester",
-        "animacion3": "Se me da mejor <strong>romper cosas<strong> que hacerlas"
+        "animacion1": "Desarrollador Full Stack",
+        "animacion2": "Junior Pentester",
+        "animacion3": "Experto en <strong>romper cosas<strong>"
     },
     "about": {
-        "descripcion": "¡Hola! Que gusto verte por aquí. Soy Axel, desarrollador y pentester. Gracias a mi recorrido profesional, experiencia y tiempo dedicado, considero que tengo altas capacidades en el ambito de la informática. Aun así, me considero un novato en otras muchas.  ",
+        "descripcion": "¡Hola! Que gusto verte por aquí. Soy Axel, una persona que iba para desarrollador pero acabó replanteandoselo, viendo que tenia mas posibilidades como pentester al reventar todo lo que tocaba.",
         "edad_titulo": "Edad:",
         "edad": "23",
-        "residencia_titulo": "Residencia:",
-        "residencia":"Madrid, España",
-        "estado_titulo":"Estado Profesional:",
+        "residencia_titulo": "Provincia Natal:",
+        "residencia":"Navarra, España",
+        "estado_titulo":"Puesto Actual:",
         "estado": "Pentester en EY",
         "direccion_titulo": "Dirección:",
         "direccion": "Madrid y alrededores",
@@ -37,44 +39,81 @@
         "descarga_cv": "Descarga CV"
     },
     "custom_text": {
-        "titulo": "Un poquito mas sobre mi",
-        "descripcionlarga1": "TODO",
-        "descripcionlarga2": "TODO",
-        "descripcionlarga3": "TODO"
+        "titulo": "Un poco sobre mi",
+        "descripcionlarga1": "Podría empezar contando algo gracioso, pero inexplicablemente soy malisimo contando chistes. Cuando nací, se me asignó esta poca cualificación para ello. ",
+        "descripcionlarga2": "A cambio, en el caldero de la personalidad, el señor que estaba encargado de crearme se le debio caer todo el bote de obstinado y cabezón. Y la verdad, le doy gracias por ello. Porque gracias a todo ese exceso soy quien soy hoy en dia. Una persona muy enfocada en su carrera profesional, exigente y responsable. Pero no por ello soy especialmente raro (creo). Me considero una persona abierta y sociable (si salgo de casa), muy agradable pero con una cara dificil.",
+        "descripcionlarga3": "Si hay algo que me guste, es seguir los consejos de grandes personas.Y si me permitís, hare especial mencion a una persona, y le tomaré prestado una frase que me ha marcado.",
+        "cita": "No dejes que nadie se acerque a ti, sin que al irse, se sienta un poquito mejor y más feliz.",
+        "autora": "Madre Teresa de Calcuta"
     },
     "coding_skills": {
-        "titulo": "Certificacions Roadmap",
+        "titulo": "Certificaciones Roadmap",
         "rueda1": "eCCPTv2",
         "porcentaje_rueda1": "80%",
+        "imagen_rueda1": "images/cert/eccptv2_small.png",
+        "clase_rueda1": "progress p80",
         "rueda2": "OSCP",
         "porcentaje_rueda2": "50%",
+        "imagen_rueda2": "images/cert/oscp_small.png",
+        "clase_rueda2": "progress p50",
         "rueda3": "CRTO",
-        "porcentaje_rueda3": "10%",
-        "rueda4": "TBD",
-        "porcentaje_rueda4": "0%"
+        "porcentaje_rueda3": "0%",
+        "clase_rueda3": "progress p0",
+        "imagen_rueda3": "images/cert/crto_small.png",
+
+        "rueda4": "eWPT",
+        "porcentaje_rueda4": "0%",
+        "clase_rueda4": "progress p0",
+        "imagen_rueda4": "images/cert/ewpt_small.png",
+       
+        "rueda5": "OSED",
+        "porcentaje_rueda5": "0%",
+        "clase_rueda5": "progress p0",
+        "imagen_rueda5": "images/cert/osed_small.png",
+
+        "rueda6": "OSEP",
+        "porcentaje_rueda6": "0%",
+        "clase_rueda6": "progress p0",
+        "imagen_rueda6": "images/cert/osep_small.png",
+
+        "rueda7": "OSWE",
+        "porcentaje_rueda7": "0%",
+        "clase_rueda7": "progress p0",
+        "imagen_rueda7": "images/cert/oswe_small.png",
+
+        "rueda8": "OSCE3",
+        "porcentaje_rueda8": "0%",
+        "clase_rueda8": "progress p0",
+        "imagen_rueda8": "images/cert/osce3_small.png"
+        
+        
     },
     "knowledge_skills" : {
         "titulo": "Conocimientos",
-        "knowledge1": "TODO",
-        "knowledge2": "TODO",
-        "knowledge3": "TODO",
-        "knowledge4": "TODO",
-        "knowledge5": "TODO",
-        "knowledge6": "TODO",
-        "knowledge7": "TODO",
-        "knowledge8": "TODO"
+        "knowledge1": "Lenguajes de programación: PHP, Typescript, Js, Java, .NET, Python",
+        "knowledge2": "Uso de herramientas de pentest: nmap, foxyproxy, dirb, gobuster, chisel",
+        "knowledge3": "Gestión de proyectos",
+        "knowledge4": "Entendimiento y ejecución de PoC",
+        "knowledge5": "Desarrollo de Apps web estáticas y dinámicas",
+        "knowledge6": "Desarrollo de auditorias Web, Infra, AD ",
+        "knowledge7": "Nivel medio de inglés hablando, y escrito",
+        "knowledge8": "Uso de herramientas automáticas como Burpsuite, Nessus"
     },
 
     "social_media": {
         "titulo": "Redes sociales",
-        "media1_titulo": "",
-        "media1": "",
-        "media2_titulo": "",
-        "media2": "",
-        "media3_titulo": "",
-        "media3": "",
-        "media4_titulo": "",
-        "media4": ""
+        "media1_titulo": "Github",
+        "media1_username": "0x4xel",
+        "media1": "https://github.com/0x4xel",
+        "media2_titulo": "Medium",
+        "media2_username": "0xAxel",
+        "media2": "https://medium.com/@0x4xel",
+        "media3_titulo": "Instagram",
+        "media3_username": "axelosantos",
+        "media3": "https://www.instagram.com/axelosantos/",
+        "media4_titulo": "Linkedin",
+        "media4_username": "Axel Losantos Lizaso",
+        "media4": "https://www.linkedin.com/in/axel-losantos-lizaso-3a1023189/"
     },
     "contacto": {
         "titulo": "Contacto",
@@ -85,16 +124,22 @@
         "email": "0x4xel@gmail.com",
         "direccion_titulo": "Dirección:",
         "direccion": "Madrid y alrededores",
-        "estado_titulo":"Estado Profesional:",
-        "estado": "Ocupado"
+        "estado_titulo":"Puesto Actual:",
+        "estado": "Pentester en EY"
     },
 
     "footer": {
         "email": "E: 0x4xel@gmail.com",
         "telefono":"T: Sin publicar",
         "sigueme": "Sigueme en",
-        "url1": "",
-        "url2": "",
-        "url3": ""
+        "url1": "https://www.instagram.com/axelosantos",
+        "url2": "https://medium.com/@0x4xel",
+        "url3": "https://github.com/0x4xel"
+    },
+    "blogpost": {
+        "titulo": "Últimos Posts"
+    },
+    "roadmap": {
+        "titulo": "Timeline"
     }
 }
