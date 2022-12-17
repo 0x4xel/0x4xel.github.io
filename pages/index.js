@@ -49,7 +49,7 @@ const IndexOnePage = () => {
           <div className="logo hover-masks-logo">
             <a href="#">
               <span className="mask-lnk">
-              {t("nombre")} <strong>{t("apellido")}</strong>
+              {t("nombre")} <strong>{t("apellido1")}</strong>
               </span>
               <span className="mask-lnk mask-lnk-hover">
               {t("descarga")} <strong>{t("CV")}</strong>
