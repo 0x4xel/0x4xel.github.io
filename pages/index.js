@@ -7,6 +7,7 @@ import { CustomText } from "../src/components/CustomText";
 import { Service } from "../src/components/Service";
 import { ResumeSection } from "../src/components/ResumeSection";
 import { ContactSection } from "../src/components/ContactSection";
+import { Clients } from "../src/components/Clients";
 import { IndexPersonal } from "../src/components/IndexPersonal";
 import Layout from "../src/layout/Layout";
 import { createSkillsDot, dotResize } from "../src/utils";
@@ -96,6 +97,7 @@ const IndexOnePage = () => {
         <About/>
         {/* Section Custom Text */}
         <CustomText/>
+         
         {/* Section Coding Skills */}
         <CodingSkills />
         {/* Section Knowledge Skills */}
@@ -106,8 +108,7 @@ const IndexOnePage = () => {
         <Service />
         {/* Section Contacts Info */}
         <ContactSection />
-        {/* Section Blogs */}
-        <BlogPost/>
+      
       </div>
     </Layout>
   );

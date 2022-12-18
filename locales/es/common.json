@@ -63,10 +63,10 @@
         "clase_rueda3": "progress p0",
         "imagen_rueda3": "images/cert/crto_small.png",
 
-        "rueda4": "eWPT",
+        "rueda4": "eWPTXv2",
         "porcentaje_rueda4": "0%",
         "clase_rueda4": "progress p0",
-        "imagen_rueda4": "images/cert/ewpt_small.png",
+        "imagen_rueda4": "images/cert/ewptxv2_small.png",
        
         "rueda5": "OSED",
         "porcentaje_rueda5": "0%",
@@ -93,7 +93,7 @@
     "knowledge_skills" : {
         "titulo": "Conocimientos",
         "knowledge1": "Lenguajes de programación: PHP, Typescript, Js, Java, .NET y Python",
-        "knowledge2": "Uso de herramientas de pentest: nmap, foxyproxy, dirb, gobuster y chisel",
+        "knowledge2": "Uso de herramientas pentest: nmap, foxyproxy, dirb, gobuster y chisel",
         "knowledge3": "Gestión de proyectos",
         "knowledge4": "Entendimiento y ejecución de PoC",
         "knowledge5": "Desarrollo de Apps web estáticas y dinámicas",
@@ -113,7 +113,7 @@
         "media3_titulo": "Instagram",
         "media3_username": "axelosantos",
         "media3": "https://www.instagram.com/axelosantos/",
-        "media4_titulo": "Linkedin",
+        "media4_titulo": "LinFkedin",
         "media4_username": "Axel Losantos Lizaso",
         "media4": "https://www.linkedin.com/in/axel-losantos-lizaso-3a1023189/"
     },

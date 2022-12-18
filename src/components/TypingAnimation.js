@@ -15,8 +15,8 @@ const TypingAnimation = ({ typingData, extraClassName }) => {
             t("animacion.animacion2"),
             t("animacion.animacion3"),
           ], // Strings to display
-      typeSpeed: 100,
-      backSpeed: 100,
+      typeSpeed: 50,
+      backSpeed: 50,
       backDelay: 100,
       smartBackspace: true,
       loop: true,

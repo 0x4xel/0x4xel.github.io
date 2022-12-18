@@ -4524,7 +4524,10 @@ object {
   }
   .lines .line-col:nth-child(1){
 		width: 7% !important;
-}
+  }
+  #subtitle {
+    font-size: 35px;
+  }
 }
 
 .fecha-tarjeta{

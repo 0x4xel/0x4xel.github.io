@@ -30,7 +30,7 @@ const useMediaQuery = (width) => {
 
 export const Timeline = () => {
     const { t } = useTranslation("common");
-    const isMobile=useMediaQuery(600)
+    const isMobile=useMediaQuery(820)
 
     return (
         <div className="section custom-text" id="section-timeline">

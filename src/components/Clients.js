@@ -4,39 +4,12 @@ export const Clients = () => {
       <div className="content">
         {/* title */}
         <div className="title">
-          <div className="title_inner">Clients</div>
+          <div className="title_inner">Certificaciones obtenidas</div>
         </div>
         {/* clients items */}
         <div className="content-box">
           <div className="clients-items">
-            <div className="clients-col">
-              <div className="clients-item">
-                <a target="_blank" rel="noreferrer" href="#">
-                  <img src="images/client1.png" alt="" />
-                </a>
-              </div>
-            </div>
-            <div className="clients-col">
-              <div className="clients-item">
-                <a target="_blank" rel="noreferrer" href="#">
-                  <img src="images/client3.png" alt="" />
-                </a>
-              </div>
-            </div>
-            <div className="clients-col">
-              <div className="clients-item">
-                <a target="_blank" rel="noreferrer" href="#">
-                  <img src="images/client2.png" alt="" />
-                </a>
-              </div>
-            </div>
-            <div className="clients-col">
-              <div className="clients-item">
-                <a target="_blank" rel="noreferrer" href="#">
-                  <img src="images/client4.png" alt="" />
-                </a>
-              </div>
-            </div>
+              <Cert imagen={"images/cert/oscp.png"} enlace ="#"/>
           </div>
         </div>
         <div className="clear" />
@@ -44,5 +17,21 @@ export const Clients = () => {
     </div>
   );
 };
+
+
+
+const Cert = ({imagen, enlace}) => {
+
+  return (
+    <div className="clients-col">
+      <div className="clients-item">
+        <a target="_blank" rel="noreferrer" href={enlace}>
+          <img src={imagen} alt="" />
+        </a>
+      </div>
+  </div>
+  )
+
+}
 
 export default Clients;
