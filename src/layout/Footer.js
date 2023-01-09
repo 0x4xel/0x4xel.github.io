@@ -1,4 +1,5 @@
 import { useTranslation } from "next-i18next";
+
 const Footer = () => {
   const { t } = useTranslation("common");
   return (
@@ -10,13 +11,13 @@ const Footer = () => {
       <div className="soc-box">
         <div className="follow-label">{t("footer.sigueme")}</div>
         <div className="soc">
-          <a target="_blank" rel="noreferrer" href={t("contacto.url1")}>
+          <a target="_blank" rel="noreferrer" href={t("footer.url1")}>
             <span className="icon fab fa-linkedin" />
           </a>
-          <a target="_blank" rel="noreferrer" href={t("contacto.url2")}>
+          <a target="_blank" rel="noreferrer" href={t("footer.url2")}>
             <span className="icon fab fa-medium" />
           </a>
-          <a target="_blank" rel="noreferrer" href={t("contacto.url3")}>
+          <a target="_blank" rel="noreferrer" href={t("footer.url3")}>
             <span className="icon fab fa-github" />
           </a>
         </div>
