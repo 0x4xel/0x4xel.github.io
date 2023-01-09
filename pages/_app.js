@@ -26,6 +26,8 @@ function MyApp({ Component, pageProps }) {
         <link rel="stylesheet" href="css/brands.css" />
         <link rel="stylesheet" href="css/solid.css" />
         <link rel="shortcut icon" href="images/favicons/favicon.ico" />
+        <meta property="og:image" content="images/perfil/sentado_frontal.jpg"/>
+       
       </Head>
       <Component {...pageProps} />
       <Analytics />
