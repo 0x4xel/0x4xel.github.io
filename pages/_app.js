@@ -30,7 +30,7 @@ function MyApp({ Component, pageProps }) {
         <meta property="og:title" content="Blog personal"/>
         <meta property="og:description" content="¡Hola! soy Axel Losantos Lizaso, Full Stack Developer y
 pentester en EY." />
-        <meta property="og:image" content="images/perfil/sentado_frontal.jpg"/>
+        <meta property="og:image" content="images/perfil/sentado_frontal2.jpg"/>
         <meta property="og:url" content="https://www.0x4xel.com/"/>
 
       </Head>
