@@ -1,57 +1,60 @@
 {  
+    "apodo": "0x4xel",
     "nombre": "Axel",
-    "apellido": "Losantos",
+    "apellido1": "Losantos",
+    "apellido": "Losantos Lizaso",
     "CV": "CV",
-    "descarga" : "Descarga",
-    "saludo": "¡Hola!, soy",
+    "descarga" : "Download",
+    "saludo": "Hello! I'm",
     "navegacion": {
         "home" : "Home",
-        "about" : "Acerca de",
+        "about" : "About",
         "skills" : "Roadmap",
-        "resume" : "Resumen",
-        "contact" : "Contacto",
+        "resume" : "Resume",
+        "contact" : "Contact",
         "blog" : "Blog",
-        "service": "Redes Sociales",
+        "service": "Social Media",
         "timeline": "Timeline"
     },
 
-    "full_stack_developer": "Full Stack Developer y",
-    "pentester_at_ey": "pentester en EY.",
+    "full_stack_developer": "Full Stack Developer and",
+    "pentester_at_ey": "pentester at EY.",
     "animacion": {
-        "animacion1": "Desarrollador Full Stack",
+        "animacion1": "Full Stack Developer",
         "animacion2": "Junior Pentester",
-        "animacion3": "Experto en <strong>romper cosas<strong>"
+        "animacion3": "Expert in <strong>break things<strong>"
     },
     "about": {
-        "descripcion": "¡Hola! Que gusto verte por aquí. Soy Axel, una persona que iba para desarrollador pero acabó replanteandoselo, viendo que tenia mas posibilidades como pentester al reventar todo lo que tocaba.",
-        "edad_titulo": "Edad:",
+        "descripcion": "Hi! Nice to see you here. I'm Axel, a person who was going to be a developer but ended up reconsidering it, seeing that I had more possibilities as a pentester by breaking everything I touched.",
+        "edad_titulo": "Age:",
         "edad": "23",
-        "residencia_titulo": "Provincia Natal:",
-        "residencia":"Navarra, España",
-        "estado_titulo":"Puesto Actual:",
-        "estado": "Pentester en EY",
-        "direccion_titulo": "Dirección:",
-        "direccion": "Madrid y alrededores",
-        "telefono_titulo": "Teléfono:",
-        "telefono": "Sin publicar",
+        "residencia_titulo": "Birth Province:",
+        "residencia":"Navarra, Spain",
+        "estado_titulo":"Actual Position:",
+        "estado": "Pentester at EY",
+        "direccion_titulo": "Address:",
+        "direccion": "Madrid Area",
+        "telefono_titulo": "Phone:",
+        "telefono": "Not published",
         "email_titulo": "E-mail:",
         "email": "0x4xel@gmail.com",
-        "descarga_cv": "Descarga CV"
+        "descarga_cv": "Dowload CV",
+        "cv": "cv/alosantos.pdf"
     },
     "custom_text": {
-        "titulo": "Un poco sobre mi",
-        "descripcionlarga1": "Podría empezar contando algo gracioso, pero inexplicablemente soy malisimo contando chistes. Cuando nací, se me asignó esta poca cualificación para ello. ",
-        "descripcionlarga2": "A cambio, en el caldero de la personalidad, el señor que estaba encargado de crearme se le debio caer todo el bote de obstinado y cabezón. Y la verdad, le doy gracias por ello. Porque gracias a todo ese exceso soy quien soy hoy en dia. Una persona muy enfocada en su carrera profesional, exigente y responsable. Pero no por ello soy especialmente raro (creo). Me considero una persona abierta y sociable (si salgo de casa), muy agradable pero con una cara dificil.",
-        "descripcionlarga3": "Si hay algo que me guste, es seguir los consejos de grandes personas.Y si me permitís, hare especial mencion a una persona, y le tomaré prestado una frase que me ha marcado.",
-        "cita": "No dejes que nadie se acerque a ti, sin que al irse, se sienta un poquito mejor y más feliz.",
+        "titulo": "A little about me",
+        "descripcionlarga1": "I could start by telling something funny, but I inevitably suck at telling jokes. When I was born, I was assigned this little qualification for it. ",
+        "descripcionlarga2": "In my personality cauldron, in contrast, the man who was in responsible for creating me must have dropped the whole pot of stubbornness and obstinacy. And to tell the truth, I thank him for that. Because thanks to all that excessive stuff, I am who I am today. A very career-focused, demanding and responsible person. But that doesn't make me particularly weird (I think). I consider myself an open and sociable person (if I go out of the house), very nice but with a difficult face.",
+        "descripcionlarga3": "If there is something I like, it is to follow the advice of great people, and if you allow me, I will make special mention of one person, and I will borrow a phrase that has marked me.",
+        "cita": "Don't let anyone get close to you without feeling a little bit better and happier when they leave.",
         "autora": "Madre Teresa de Calcuta"
     },
     "coding_skills": {
-        "titulo": "Certificacioneswesdfsd Roadmap",
+        "titulo": "Certifications Roadmap",
         "rueda1": "eCCPTv2",
-        "porcentaje_rueda1": "30%",
+        "porcentaje_rueda1": "80%",
         "imagen_rueda1": "images/cert/eccptv2_small.png",
-        "clase_rueda1": "progress p30",
+        "clase_rueda1": "progress p80",
         "rueda2": "OSCP",
         "porcentaje_rueda2": "50%",
         "imagen_rueda2": "images/cert/oscp_small.png",
@@ -61,10 +64,10 @@
         "clase_rueda3": "progress p0",
         "imagen_rueda3": "images/cert/crto_small.png",
 
-        "rueda4": "eWPT",
+        "rueda4": "eWPTXv2",
         "porcentaje_rueda4": "0%",
         "clase_rueda4": "progress p0",
-        "imagen_rueda4": "images/cert/ewpt_small.png",
+        "imagen_rueda4": "images/cert/ewptxv2_small.png",
        
         "rueda5": "OSED",
         "porcentaje_rueda5": "0%",
@@ -89,19 +92,19 @@
         
     },
     "knowledge_skills" : {
-        "titulo": "Conocimientos",
-        "knowledge1": "Lenguajes de programación: PHP, Typescript, Js, Java, .NET, Python",
-        "knowledge2": "Uso de herramientas de pentest: nmap, foxyproxy, dirb, gobuster, chisel",
-        "knowledge3": "Gestión de proyectos",
-        "knowledge4": "Entendimiento y ejecución de PoC",
-        "knowledge5": "Desarrollo de Apps web estáticas y dinámicas",
-        "knowledge6": "Desarrollo de auditorias Web, Infra, AD ",
-        "knowledge7": "Nivel medio de inglés hablando, y escrito",
-        "knowledge8": "Uso de herramientas automáticas como Burpsuite, Nessus"
+        "titulo": "Knowledge",
+        "knowledge1": "Programming languages: PHP, Typescript, Js, Java, .NET and Python",
+        "knowledge2": "Use of pentest tools like nmap, foxyproxy, dirb, gobuster and chisel",
+        "knowledge3": "Project Manager",
+        "knowledge4": "PoC understanding and Execution",
+        "knowledge5": "Development of static and dynamic Web Apps",
+        "knowledge6": "Development of Web and Infra audits ",
+        "knowledge7": "Medium level of English speaking and writing",
+        "knowledge8": "Using automated tools like Burpsuite or Nessus"
     },
 
     "social_media": {
-        "titulo": "Redes sociales",
+        "titulo": "Social media",
         "media1_titulo": "Github",
         "media1_username": "0x4xel",
         "media1": "https://github.com/0x4xel",
@@ -116,28 +119,28 @@
         "media4": "https://www.linkedin.com/in/axel-losantos-lizaso-3a1023189/"
     },
     "contacto": {
-        "titulo": "Contacto",
-        "telefono_titulo": "Teléfono:",
-        "telefono": "Sin publicar",
+        "titulo": "Contact",
+        "telefono_titulo": "Phone:",
+        "telefono": "Not publised",
         "email_titulo": "E-mail:",
         "mailtoemail": "mailto:0x4xel@gmail.com",
         "email": "0x4xel@gmail.com",
-        "direccion_titulo": "Dirección:",
-        "direccion": "Madrid y alrededores",
-        "estado_titulo":"Puesto Actual:",
-        "estado": "Pentester en EY"
+        "direccion_titulo": "Address:",
+        "direccion": "Madrid Area",
+        "estado_titulo":"Actual position:",
+        "estado": "Pentester at EY"
     },
 
     "footer": {
         "email": "E: 0x4xel@gmail.com",
-        "telefono":"T: Sin publicar",
-        "sigueme": "Sigueme en",
-        "url1": "https://www.instagram.com/axelosantos",
+        "telefono":"T: Not published",
+        "sigueme": "Follow me on",
+        "url1": "https://www.linkedin.com/in/axel-losantos-lizaso-3a1023189/",
         "url2": "https://medium.com/@0x4xel",
         "url3": "https://github.com/0x4xel"
     },
     "blogpost": {
-        "titulo": "Últimos Posts"
+        "titulo": "Last Posts"
     },
     "roadmap": {
         "titulo": "Timeline"
