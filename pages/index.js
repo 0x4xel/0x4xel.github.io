@@ -48,7 +48,7 @@ const IndexOnePage = () => {
           </a>
           {/* logo */}
           <div className="logo hover-masks-logo">
-            <a href="#">
+            <a href={t("about.cv")}>
               <span className="mask-lnk">
               {t("nombre")} <strong>{t("apellido1")}</strong>
               </span>

@@ -7,7 +7,7 @@ export const About = () => {
       <div className="content content-box">
         {/* image */}
         <div className="image">
-          <img src="images/man_r.jpg" alt="" />
+          <img src="images/perfil/color_frente.jpg" alt="" />
         </div>
         {/* desc */}
         <div className="desc">
@@ -37,7 +37,7 @@ export const About = () => {
             </ul>
           </div>
           <div className="bts">
-            <a href="#" className="btn hover-animated">
+            <a href={t("about.cv")} className="btn hover-animated">
               <span className="circle" />
               <span className="lnk">{t("about.descarga_cv")}</span>
             </a>

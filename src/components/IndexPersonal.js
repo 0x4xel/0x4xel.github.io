@@ -18,7 +18,7 @@ export const IndexPersonal = () => {
             <div className="started-content">
               <div
                 className="logo"
-                style={{ backgroundImage: "url(images/man.jpg)" }}
+                style={{ backgroundImage: "url(images/perfil/try_edit.jpg)" }}
               />
               <h1 className="h-title">
                 {t("saludo")} <strong>{t("nombre")} {t("apellido")}</strong>, {t("full_stack_developer")}{" "}
