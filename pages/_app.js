@@ -26,8 +26,13 @@ function MyApp({ Component, pageProps }) {
         <link rel="stylesheet" href="css/brands.css" />
         <link rel="stylesheet" href="css/solid.css" />
         <link rel="shortcut icon" href="images/favicons/favicon.ico" />
+        <meta name="twitter:card" content="summary"/>
+        <meta property="og:title" content="Blog personal"/>
+        <meta property="og:description" content="¡Hola! soy Axel Losantos Lizaso, Full Stack Developer y
+pentester en EY." />
         <meta property="og:image" content="images/perfil/sentado_frontal.jpg"/>
-       
+        <meta property="og:url" content="https://www.0x4xel.com/"/>
+
       </Head>
       <Component {...pageProps} />
       <Analytics />
