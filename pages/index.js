@@ -7,13 +7,15 @@ import { CustomText } from "../src/components/CustomText";
 import { Service } from "../src/components/Service";
 import { ResumeSection } from "../src/components/ResumeSection";
 import { ContactSection } from "../src/components/ContactSection";
-import { Clients } from "../src/components/Clients";
+import { Certs } from "../src/components/Certs";
 import { IndexPersonal } from "../src/components/IndexPersonal";
 import Layout from "../src/layout/Layout";
 import { createSkillsDot, dotResize } from "../src/utils";
 import { useTranslation } from "next-i18next";
 import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 import { Timeline } from "../src/components/Timeline";
+import Interests from "../src/components/Interests";
+import Testimonials from "../src/components/Testimonials";
 // export default function Home...
 
 
@@ -69,6 +71,9 @@ const IndexOnePage = () => {
                     <a href="#section-about">{t("navegacion.about")}</a>
                   </li>
                   <li className="menu-item">
+                    <a href="#section-certs-code">{t("navegacion.certs")}</a>
+                  </li>
+                  <li className="menu-item">
                     <a href="#section-skills-code">{t("navegacion.skills")}</a>
                   </li>
                   <li className="menu-item">
@@ -97,7 +102,8 @@ const IndexOnePage = () => {
         <About/>
         {/* Section Custom Text */}
         <CustomText/>
-         
+        {/* Section Certs */}
+        <Certs/>
         {/* Section Coding Skills */}
         <CodingSkills />
         {/* Section Knowledge Skills */}
