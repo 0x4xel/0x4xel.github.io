@@ -31,7 +31,7 @@ export const Service = () => {
           <div className="service-col">
             <div className="service-item content-box">
               <div className="icon">
-                <span className="icon fab fa-instagram" />
+                <span className="icon fab fa-dashcube" />
               </div>
               <div className="name">{t("social_media.media3_titulo")}</div>
               <a href ={t("social_media.media3")}>{t("social_media.media3_username")}</a>
