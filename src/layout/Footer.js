@@ -6,7 +6,6 @@ const Footer = () => {
     <footer className="footer">
       <div className="copy">
         <p>{t("footer.email")}</p>
-        <p>{t("footer.telefono")}</p>
       </div>
       <div className="soc-box">
         <div className="follow-label">{t("footer.sigueme")}</div>
