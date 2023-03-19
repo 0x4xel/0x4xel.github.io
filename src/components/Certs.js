@@ -12,7 +12,7 @@ export const Certs = () => {
         <div className="content-box">
           <div className="clients-items">
               <Cert imagen={"images/cert/apisec.png"} enlace ="https://www.credly.com/badges/6decc09d-8904-4fc2-a66a-1a917f1cebf2/public_url"/>
-              <Cert imagen={"images/cert/oscp.png"} enlace ="#"/>
+              <Cert imagen={"images/cert/oscp.png"} enlace ="https://www.credential.net/4fc22f0f-c717-4eed-991d-58c267629fe5"/>
           </div>
         </div>
         <div className="clear" />
