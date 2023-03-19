@@ -9,6 +9,7 @@
     "navegacion": {
         "home" : "Home",
         "about" : "Acerca de",
+        "certs" : "Certificaciones",
         "skills" : "Roadmap",
         "resume" : "Resumen",
         "contact" : "Contacto",
@@ -56,9 +57,9 @@
         "imagen_rueda1": "images/cert/eccptv2_small.png",
         "clase_rueda1": "progress p80",
         "rueda2": "OSCP",
-        "porcentaje_rueda2": "50%",
+        "porcentaje_rueda2": "100%",
         "imagen_rueda2": "images/cert/oscp_small.png",
-        "clase_rueda2": "progress p50",
+        "clase_rueda2": "progress p100",
         "rueda3": "CRTO",
         "porcentaje_rueda3": "0%",
         "clase_rueda3": "progress p0",
@@ -98,7 +99,7 @@
         "knowledge3": "Gestión de proyectos",
         "knowledge4": "Entendimiento y ejecución de PoC",
         "knowledge5": "Desarrollo de Apps web estáticas y dinámicas",
-        "knowledge6": "Desarrollo de auditorías Web e Infra ",
+        "knowledge6": "Desarrollo de auditorías Web, Infra y Red Team ",
         "knowledge7": "Nivel medio de inglés hablando y escrito",
         "knowledge8": "Uso de herramientas automáticas como Burpsuite o Nessus"
     },
@@ -144,5 +145,8 @@
     },
     "roadmap": {
         "titulo": "Timeline"
+    },
+    "certs": {
+        "titulo": "Certificaciones obtenidas"
     }
 }

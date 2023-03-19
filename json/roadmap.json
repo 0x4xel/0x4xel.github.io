@@ -1,5 +1,31 @@
-[        
+[    
     {
+        "title": "Mar 2023",
+        "cardTitle": "OSCP Certified",
+        "url": "https://www.offsec.com/courses/pen-200/",
+        "cardSubtitle":"Curso PWK/PEN-200 que introduce las metodologias, herramientas y ténicas de pruebas de penetración. El examen consiste en un ataque y penetración exitoso en varias máquinas en un entorno de laboratorio en un periodo de 48h (24h de explotación y 24h de informe monitorizados). El OSCP es una certificación técnica que requiere de unos conocimientos base. ",
+        "cardDetailedText": "",
+        "media": {
+            "type": "IMAGE",
+            "source": {
+                "url": "../images/cert/oscp.png"
+            }
+        }
+    },   
+    {
+        "title": "Feb 2023",
+        "cardTitle": "APIsec Certified",
+        "url": "https://university.apisec.ai/apisec-certified-expert",
+        "cardSubtitle":"El curso de pruebas de penetración de API cubre todos los temas clave para convertirse en un profesional de APIsec. Este curso práctico proporciona talleres detallados sobre técnicas de hacking de API y cómo descubrir vulnerabilidades y fallos lógicos en las APIs.",
+        "cardDetailedText": "",
+        "media": {
+            "type": "IMAGE",
+            "source": {
+                "url": "../images/cert/apisec.png"
+            }
+        }
+    },  
+   {
         "title": "Jun 2022",
         "cardTitle": "Consultor de Ciberseguridad & Junior Pentester",
         "url": "https://www.ey.com/es_es",
@@ -11,7 +37,7 @@
                 "url": "../images/logos/logo_EY.png"
             }
         }
-    },
+    }, 
 
     {
         "title": "Jun 2022",
