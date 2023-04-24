@@ -1,4 +1,19 @@
 [    
+
+    
+    {
+        "title": "Abr 2023",
+        "cardTitle": "AZ-900 Certified",
+        "url": "https://learn.microsoft.com/es-es/certifications/exams/az-900/",
+        "cardSubtitle":"Los candidatos para este examen deben tener un conocimiento fundamental de los servicios en la nube y cómo se proporcionan esos servicios con Microsoft Azure. El examen está dirigido a candidatos que recién están comenzando a trabajar con soluciones y servicios basados en la nube o que son nuevos en Azure.",
+        "cardDetailedText": "",
+        "media": {
+            "type": "IMAGE",
+            "source": {
+                "url": "../images/cert/az-900-sinfondo.png"
+            }
+        }
+    },   
     {
         "title": "Mar 2023",
         "cardTitle": "OSCP Certified",
