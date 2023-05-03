@@ -60,9 +60,10 @@
         "porcentaje_rueda2": "100%",
         "imagen_rueda2": "images/cert/oscp_small.png",
         "clase_rueda2": "progress p100",
+        
         "rueda3": "CRTP",
-        "porcentaje_rueda3": "50%",
-        "clase_rueda3": "progress p50",
+        "porcentaje_rueda3": "100%",
+        "clase_rueda3": "progress p100",
         "imagen_rueda3": "images/cert/crtp_small.png",
 
         "rueda4": "eWPTXv2",
