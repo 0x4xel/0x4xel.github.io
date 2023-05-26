@@ -1,6 +1,20 @@
 [    
     {
         "title": "May 2023",
+        "cardTitle": "eCCPTv2 Certified",
+        "url": "https://elearnsecurity.com/product/ecpptv2-certification/",
+        "cardSubtitle":"eCPPTv2 es una certificación profesional 100 % práctica y muy respetada en pruebas de penetración y hacking ético que cuenta con profesionales certificados en los siete continentes.",
+        "cardDetailedText": "",
+        "media": {
+            "type": "IMAGE",
+            "source": {
+                "url": "../images/cert/eccptv2.png"
+            }
+        }
+    },
+    
+    {
+        "title": "May 2023",
         "cardTitle": "CRTP Certified",
         "url": "https://www.alteredsecurity.com/adlab",
         "cardSubtitle":"El Laboratorio de Ataque y Defensa de Active Directory está diseñado para proporcionar una plataforma a los profesionales de seguridad para entender, analizar y practicar las amenazas y ataques en un entorno moderno de Active Directory. El laboratorio es amigable para principiantes y viene con un curso de video completo y un manual de laboratorio. El curso y el laboratorio se basan en nuestra experiencia de años haciendo y rompiendo entornos de Windows y AD, y enseñando a profesionales de seguridad.",

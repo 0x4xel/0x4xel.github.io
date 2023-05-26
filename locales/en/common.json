@@ -52,10 +52,12 @@
     },
     "coding_skills": {
         "titulo": "Certifications Roadmap",
+        
         "rueda1": "eCCPTv2",
-        "porcentaje_rueda1": "90%",
+        "porcentaje_rueda1": "100%",
         "imagen_rueda1": "images/cert/eccptv2_small.png",
-        "clase_rueda1": "progress p90",
+        "clase_rueda1": "progress p100",
+        
         "rueda2": "OSCP",
         "porcentaje_rueda2": "100%",
         "imagen_rueda2": "images/cert/oscp_small.png",
