@@ -65,10 +65,10 @@
         "clase_rueda3": "progress p100",
         "imagen_rueda3": "images/cert/crtp_small.png",
 
-        "rueda4": "eWPTXv2",
-        "porcentaje_rueda4": "0%",
-        "clase_rueda4": "progress p0",
-        "imagen_rueda4": "images/cert/ewptxv2_small.png",
+        "rueda4": "CARTP",
+        "porcentaje_rueda4": "100%",
+        "clase_rueda4": "progress p100",
+        "imagen_rueda4": "images/cert/cartp_small.png",
        
         "rueda5": "OSED",
         "porcentaje_rueda5": "0%",

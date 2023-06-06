@@ -16,6 +16,7 @@ export const Certs = () => {
               <Cert imagen={"images/cert/az-900-sinfondo.png"} enlace =""/>
               <Cert imagen={"images/cert/crtp.png"} enlace ="https://www.credential.net/b264680e-c51c-4efe-ade1-3fc147641909"/>
               <Cert imagen={"images/cert/eccptv2.png"} enlace ="https://verified.elearnsecurity.com/certificates/365aab82-1c93-4c9e-814f-a0c4dd20e476"/>
+              <Cert imagen={"images/cert/cartp.png"} enlace ="https://www.credential.net/30c14a2f-40b8-4130-837b-079c0be9dd1e"/>
           </div>
         </div>
         <div className="clear" />

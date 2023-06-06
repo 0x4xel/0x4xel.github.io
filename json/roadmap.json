@@ -1,5 +1,19 @@
 [    
     {
+        "title": "Jun 2023",
+        "cardTitle": "CARTP Certified",
+        "url": "https://www.alteredsecurity.com/azureadlab",
+        "cardSubtitle":"Este bootcamp de 4 semanas, ideal para principiantes, está diseñado para profesionales de la seguridad que deseen mejorar sus habilidades en seguridad en la nube de Azure Active Directory (AD), pentesting de Azure y Red Teaming en la nube de Azure. Cubre todas las fases del Red Teaming y pentesting en Azure: Reconocimiento, Acceso inicial, Enumeración, Escalada de privilegios, Movimiento lateral, Persistencia y exfiltración de datos. El bootcamp se centrará en la metodología y las técnicas, a través de demostraciones del instructor, ejercicios y laboratorios prácticos.",
+        "cardDetailedText": "",
+        "media": {
+            "type": "IMAGE",
+            "source": {
+                "url": "../images/cert/cartp.png"
+            }
+        }
+    },
+
+    {
         "title": "May 2023",
         "cardTitle": "eCCPTv2 Certified",
         "url": "https://elearnsecurity.com/product/ecpptv2-certification/",
