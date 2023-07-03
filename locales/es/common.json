@@ -51,46 +51,7 @@
         "autora": "Madre Teresa de Calcuta"
     },
     "coding_skills": {
-        "titulo": "Certificaciones Roadmap",
-        "rueda1": "eCCPTv2",
-        "porcentaje_rueda1": "100%",
-        "imagen_rueda1": "images/cert/eccptv2_small.png",
-        "clase_rueda1": "progress p100",
-        "rueda2": "OSCP",
-        "porcentaje_rueda2": "100%",
-        "imagen_rueda2": "images/cert/oscp_small.png",
-        "clase_rueda2": "progress p100",
-        "rueda3": "CRTP",
-        "porcentaje_rueda3": "100%",
-        "clase_rueda3": "progress p100",
-        "imagen_rueda3": "images/cert/crtp_small.png",
-
-        "rueda4": "CARTP",
-        "porcentaje_rueda4": "100%",
-        "clase_rueda4": "progress p100",
-        "imagen_rueda4": "images/cert/cartp_small.png",
-       
-        "rueda5": "OSED",
-        "porcentaje_rueda5": "0%",
-        "clase_rueda5": "progress p0",
-        "imagen_rueda5": "images/cert/osed_small.png",
-
-        "rueda6": "OSEP",
-        "porcentaje_rueda6": "0%",
-        "clase_rueda6": "progress p0",
-        "imagen_rueda6": "images/cert/osep_small.png",
-
-        "rueda7": "OSWE",
-        "porcentaje_rueda7": "0%",
-        "clase_rueda7": "progress p0",
-        "imagen_rueda7": "images/cert/oswe_small.png",
-
-        "rueda8": "OSCE3",
-        "porcentaje_rueda8": "0%",
-        "clase_rueda8": "progress p0",
-        "imagen_rueda8": "images/cert/osce3_small.png"
-        
-        
+        "titulo": "Certificaciones Roadmap"      
     },
     "knowledge_skills" : {
         "titulo": "Conocimientos",
