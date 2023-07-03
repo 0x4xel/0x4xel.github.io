@@ -1,6 +1,7 @@
 import { useEffect } from "react";
 import { createSkillsDot, dotResize } from "../utils";
 import { useTranslation } from "next-i18next";
+import wheels from "../../json/wheels.json"
 
 export const DesignSkills = () => {
   return (
@@ -65,14 +66,11 @@ export const CodingSkills = () => {
         {/* skills items */}
         <div className="skills circles content-box">
           <ul>
-            <Rueda rueda={t("coding_skills.rueda1")} imagen_rueda={t("coding_skills.imagen_rueda1")} clase_rueda={t("coding_skills.clase_rueda1")} porcentaje_rueda={t("coding_skills.porcentaje_rueda1")}/>
-            <Rueda rueda={t("coding_skills.rueda2")} imagen_rueda={t("coding_skills.imagen_rueda2")} clase_rueda={t("coding_skills.clase_rueda2")} porcentaje_rueda={t("coding_skills.porcentaje_rueda2")}/>
-            <Rueda rueda={t("coding_skills.rueda3")} imagen_rueda={t("coding_skills.imagen_rueda3")} clase_rueda={t("coding_skills.clase_rueda3")} porcentaje_rueda={t("coding_skills.porcentaje_rueda3")}/>
-            <Rueda rueda={t("coding_skills.rueda4")} imagen_rueda={t("coding_skills.imagen_rueda4")} clase_rueda={t("coding_skills.clase_rueda4")} porcentaje_rueda={t("coding_skills.porcentaje_rueda4")}/>
-            <Rueda rueda={t("coding_skills.rueda5")} imagen_rueda={t("coding_skills.imagen_rueda5")} clase_rueda={t("coding_skills.clase_rueda5")} porcentaje_rueda={t("coding_skills.porcentaje_rueda5")}/>
-            <Rueda rueda={t("coding_skills.rueda6")} imagen_rueda={t("coding_skills.imagen_rueda6")} clase_rueda={t("coding_skills.clase_rueda6")} porcentaje_rueda={t("coding_skills.porcentaje_rueda6")}/>
-            <Rueda rueda={t("coding_skills.rueda7")} imagen_rueda={t("coding_skills.imagen_rueda7")} clase_rueda={t("coding_skills.clase_rueda7")} porcentaje_rueda={t("coding_skills.porcentaje_rueda7")}/>
-            <Rueda rueda={t("coding_skills.rueda8")} imagen_rueda={t("coding_skills.imagen_rueda8")} clase_rueda={t("coding_skills.clase_rueda8")} porcentaje_rueda={t("coding_skills.porcentaje_rueda8")}/>
+              {Object.keys(wheels).map((index) => {
+                return (
+                  <Rueda key={index} rueda={wheels[index].nombre} imagen_rueda={wheels[index].imagen} clase_rueda={wheels[index].clase} porcentaje_rueda={wheels[index].porcentaje}/>
+                )})
+              }
           </ul>
         </div>
       </div>

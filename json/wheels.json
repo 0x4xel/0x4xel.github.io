@@ -1,0 +1,87 @@
+[
+    {
+        "nombre": "eCCPTv2",
+        "porcentaje": "100%",
+        "imagen": "images/cert/eccptv2_small.png",
+        "clase": "progress p100"
+    },    
+    {
+        "nombre": "OSCP",
+        "porcentaje": "100%",
+        "imagen": "images/cert/oscp_small.png",
+        "clase": "progress p100"
+    },    
+
+    {
+        "nombre": "CRTP",
+        "porcentaje": "100%",
+        "imagen": "images/cert/crtp_small.png",
+        "clase": "progress p100"
+    },    
+
+    {
+        "nombre": "CARTP",
+        "porcentaje": "100%",
+        "imagen": "images/cert/cartp_small.png",
+        "clase": "progress p100"
+    },    
+
+    {
+        "nombre": "CRTO",
+        "porcentaje": "100%",
+        "imagen": "images/cert/crto_small.png",
+        "clase": "progress p100"
+    },  
+    
+    {
+        "nombre": "CHMRTA",
+        "porcentaje": "0%",
+        "imagen": "images/cert/chmrta_small.png",
+        "clase": "progress p0"
+    },  
+    
+    {
+        "nombre": "CRTE",
+        "porcentaje": "0%",
+        "imagen": "images/cert/crte_small.png",
+        "clase": "progress p0"
+    },   
+    
+    {
+        "nombre": "PACES",
+        "porcentaje": "0%",
+        "imagen": "images/cert/paces_small.png",
+        "clase": "progress p0"
+    },   
+    
+    {
+        "nombre": "OSWE",
+        "porcentaje": "0%",
+        "imagen": "images/cert/osed_small.png",
+        "clase": "progress p0"
+    },   
+    
+    {
+        "nombre": "OSED",
+        "porcentaje": "0%",
+        "imagen": "images/cert/osed_small.png",
+        "clase": "progress p0"
+    },   
+    
+    {
+        "nombre": "OSEP",
+        "porcentaje": "0%",
+        "imagen": "images/cert/osep_small.png",
+        "clase": "progress p0"
+    },   
+    
+    {
+        "nombre": "OSCE3",
+        "porcentaje": "0%",
+        "imagen": "images/cert/osce3_small.png",
+        "clase": "progress p0"
+    }
+
+
+] 
+        
