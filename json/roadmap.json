@@ -1,5 +1,19 @@
 [    
     {
+        "title": "Jul 2023",
+        "cardTitle": "CRTO Certified",
+        "url": "https://training.zeropointsecurity.co.uk/courses/red-team-ops",
+        "cardSubtitle":"El curso esta orientado a aprender los principios básicos, herramientas y técnicas de un ejercicico Red Team. Los estudiantes cubrirán los conceptos clave de una simulación de ataque, Command and Control, planificación de actuación y reporte.",
+        "cardDetailedText": "",
+        "media": {
+            "type": "IMAGE",
+            "source": {
+                "url": "../images/cert/crto.png"
+            }
+        }
+    },
+
+    {
         "title": "Jun 2023",
         "cardTitle": "CARTP Certified",
         "url": "https://www.alteredsecurity.com/azureadlab",
