@@ -34,10 +34,10 @@
     },  
     
     {
-        "nombre": "CHMRTA",
-        "porcentaje": "0%",
+        "nombre": "CHMRTS",
+        "porcentaje": "100%",
         "imagen": "images/cert/chmrta_small.png",
-        "clase": "progress p0"
+        "clase": "progress p100"
     },  
     
     {

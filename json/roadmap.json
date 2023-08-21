@@ -1,5 +1,18 @@
 [    
     {
+        "title": "Aug 2023",
+        "cardTitle": "CHMRTS Certified",
+        "url": "https://cyberwarfare.live/product/hybrid-multi-cloud-red-team-specialist-chmrts/",
+        "cardSubtitle":"El curso esta orientado a diseñar mapas de ataque y explotar servicios en la nube como AWS, Azure, GCP, además de sistemas locales. Cubre la explotación de servicios populares como O365, G-Suite y Azure AD, así como el movimiento lateral entre sistemas y la persistencia en entornos híbridos.",
+        "cardDetailedText": "",
+        "media": {
+            "type": "IMAGE",
+            "source": {
+                "url": "../images/cert/chmrta.png"
+            }
+        }
+    },
+    {
         "title": "Jul 2023",
         "cardTitle": "CRTO Certified",
         "url": "https://training.zeropointsecurity.co.uk/courses/red-team-ops",
