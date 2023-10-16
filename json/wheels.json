@@ -39,6 +39,13 @@
         "imagen": "images/cert/chmrta_small.png",
         "clase": "progress p100"
     },  
+
+    {
+        "nombre": "OSEP",
+        "porcentaje": "100%",
+        "imagen": "images/cert/osep_small.png",
+        "clase": "progress p100"
+    }, 
     
     {
         "nombre": "CRTE",
@@ -68,12 +75,7 @@
         "clase": "progress p0"
     },   
     
-    {
-        "nombre": "OSEP",
-        "porcentaje": "0%",
-        "imagen": "images/cert/osep_small.png",
-        "clase": "progress p0"
-    },   
+  
     
     {
         "nombre": "OSCE3",

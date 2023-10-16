@@ -1,5 +1,18 @@
 [    
     {
+        "title": "Oct 2023",
+        "cardTitle": "OSEP Certified",
+        "url": "https://www.offsec.com/courses/pen-300/",
+        "cardSubtitle":"El OSEP es un curso avanzado de pruebas de penetración que amplía el conocimiento y las técnicas enseñadas en Pruebas de Penetración con Kali Linux, enseñando a los estudiantes a realizar pruebas avanzadas contra organizaciones maduras con una función de seguridad establecida y se enfoca en eludir los mecanismos de seguridad diseñados para bloquear ataques.",
+        "cardDetailedText": "",
+        "media": {
+            "type": "IMAGE",
+            "source": {
+                "url": "../images/cert/osep.png"
+            }
+        }
+    },
+    {
         "title": "Aug 2023",
         "cardTitle": "CHMRTS Certified",
         "url": "https://cyberwarfare.live/product/hybrid-multi-cloud-red-team-specialist-chmrts/",
