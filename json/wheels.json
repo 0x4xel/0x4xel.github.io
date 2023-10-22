@@ -79,9 +79,9 @@
     
     {
         "nombre": "OSCE3",
-        "porcentaje": "0%",
+        "porcentaje": "33%",
         "imagen": "images/cert/osce3_small.png",
-        "clase": "progress p0"
+        "clase": "progress p33"
     }
 
 
