@@ -49,9 +49,9 @@
     
     {
         "nombre": "CRTE",
-        "porcentaje": "0%",
+        "porcentaje": "100%",
         "imagen": "images/cert/crte_small.png",
-        "clase": "progress p0"
+        "clase": "progress p100"
     },   
     
     {
