@@ -28,8 +28,7 @@ function MyApp({ Component, pageProps }) {
         <link rel="shortcut icon" href="images/favicons/favicon.ico" />
         <meta name="linkedin:card" content="summary"/>
         <meta property="og:title" content="Blog personal"/>
-        <meta property="og:description" content="¡Hola! soy Axel Losantos Lizaso, Full Stack Developer y
-pentester en EY." />
+        <meta property="og:description" content="¡Hola! soy Axel Losantos Lizaso, Pentester & Security Researcher en Mnemo." />
         <meta property="og:image" content="https://www.0x4xel.com/images/perfil/1111.jpg"/>
         <meta property="og:url" content="https://www.0x4xel.com/"/>
 

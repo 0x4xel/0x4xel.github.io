@@ -23,7 +23,7 @@ export const IndexPersonal = () => {
               <h1 className="h-title">
                 {t("saludo")} <strong>{t("nombre")} {t("apellido")}</strong>, {t("full_stack_developer")}{" "}
                 <br />
-                {t("pentester_at_ey")}
+                {t("pentester_at_mnemo")}
               </h1>
               <TypingAnimation extraClassName={"typed-subtitle"} />
               <span className="typed-subtitle" />

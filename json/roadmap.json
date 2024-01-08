@@ -1,5 +1,19 @@
 [    
     {
+        "title": "Jan 2024",
+        "cardTitle": "Pentester & Security Researcher",
+        "url": "https://www.mnemo.com/",
+        "cardSubtitle":"Auditor de seguridad ofensiva encargado de operar en ejercicios de auditorias Web, Infra, OT, Móviles, entre otros. Investigador en diferentes ámbitos de la seguridad informática",
+        "cardDetailedText": "",
+        "media": {
+            "type": "IMAGE",
+            "source": {
+                "url": "../images/logos/logo_mnemo.png"
+            }
+        }
+    }, 
+
+    {
         "title": "Nov 2023",
         "cardTitle": "CRTE Certified",
         "url": "https://www.alteredsecurity.com/redteamlab",

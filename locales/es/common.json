@@ -18,11 +18,11 @@
         "timeline": "Timeline"
     },
 
-    "full_stack_developer": "Full Stack Developer y",
-    "pentester_at_ey": "pentester en EY.",
+    "full_stack_developer": "Pentester &",
+    "pentester_at_mnemo": " Security Researcher.",
     "animacion": {
         "animacion1": "Desarrollador Full Stack",
-        "animacion2": "Junior Pentester",
+        "animacion2": "Security Researcher",
         "animacion3": "Experto en <strong>romper cosas<strong>"
     },
     "about": {
@@ -32,7 +32,7 @@
         "residencia_titulo": "Provincia Natal:",
         "residencia":"Navarra, España",
         "estado_titulo":"Puesto Actual:",
-        "estado": "Pentester en EY",
+        "estado": "Pentester & Security Researcher en Mnemo",
         "direccion_titulo": "Dirección:",
         "direccion": "Madrid y alrededores",
         "telefono_titulo": "Teléfono:",
@@ -90,7 +90,7 @@
         "direccion_titulo": "Dirección:",
         "direccion": "Madrid y alrededores",
         "estado_titulo":"Puesto Actual:",
-        "estado": "Pentester en EY"
+        "estado": "Pentester & Security Researcher en Mnemo"
     },
 
     "footer": {
