@@ -52,7 +52,14 @@
         "porcentaje": "100%",
         "imagen": "images/cert/crte_small.png",
         "clase": "progress p100"
-    },   
+    },  
+    
+    {
+        "nombre": "ARTE",
+        "porcentaje": "100%",
+        "imagen": "images/cert/htarte_small.png",
+        "clase": "progress p100"
+    },  
     
     {
         "nombre": "PACES",

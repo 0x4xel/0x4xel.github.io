@@ -47,6 +47,11 @@
     {
         "imagen": "images/cert/crte.png",
         "enlace": "https://www.credential.net/f31856e0-283d-427d-a476-3049b88b0d34#gs.06wkeq"
+    },
+
+    {
+        "imagen": "images/cert/htarte.png",
+        "enlace": "https://training.hacktricks.xyz/certificates/b6b3f5e5-a8d9-49dd-aa64-2daa74e5b74b"
     }
 ] 
         

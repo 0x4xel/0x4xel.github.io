@@ -1,4 +1,18 @@
-[    
+[  
+    
+    {
+        "title": "Mar 2024",
+        "cardTitle": "ARTE Certified",
+        "url": "https://training.hacktricks.xyz/",
+        "cardSubtitle":"La certificación ARTE muestra cómo aplicar metodologías de Red Team específicamente diseñadas para entornos de AWS, capacitándote para identificar y remediar vulnerabilidades potenciales de manera efectiva, asi como elaborar un plan de auditoría de caja blanca y caja negra.",
+        "cardDetailedText": "",
+        "media": {
+            "type": "IMAGE",
+            "source": {
+                "url": "../images/cert/htarte.png"
+            }
+        }
+    }, 
     {
         "title": "Jan 2024",
         "cardTitle": "Pentester & Security Researcher",
