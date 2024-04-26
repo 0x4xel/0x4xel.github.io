@@ -1,5 +1,17 @@
 [  
-    
+    {
+        "title": "Apr 2024",
+        "cardTitle": "CARTE Certified",
+        "url": "https://www.alteredsecurity.com/azureadvanced",
+        "cardSubtitle":"La certificación CARTE es completamente práctica. Para obtenerla, el estudiante debe resolver desafíos prácticos y realistas en un entorno Azure, securizado y multitenant. Quien obtenga la certificación será capaz de evaluar los controles de seguridad, analizar su eficacia y recomendar mitigaciones contra configuraciones incorrectas",
+        "cardDetailedText": "",
+        "media": {
+            "type": "IMAGE",
+            "source": {
+                "url": "../images/cert/carte.png"
+            }
+        }
+    },
     {
         "title": "Mar 2024",
         "cardTitle": "ARTE Certified",
@@ -234,7 +246,7 @@
 
 
     {
-        "title": "Enero 2019",
+        "title": "Jan 2019",
         "cardTitle": "Empleado en prácticas",
         "url": "https://www.terabyte2003.com/",
         "cardSubtitle":"Prácticas en la empresa gracias a la formación profesional. Encargado de desarrollo de mantenimientos en C y migraciones de datos a Ruby",
