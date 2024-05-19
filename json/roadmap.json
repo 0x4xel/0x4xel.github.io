@@ -1,5 +1,32 @@
 [  
     {
+        "title": "May 2024",
+        "cardTitle": "CRTL Certified",
+        "url": "https://training.zeropointsecurity.co.uk/courses/red-team-ops-ii",
+        "cardSubtitle":"CRTL es la continuación del CRTO que complemenata ciertos aspectos relevantes de los ejercicios de Red Team que nov e abordan en su primera certificación. El foco principal es la de proveer técnicas OPSEC, bypass de las defensas (EDR), aprender a desarrollar cargadores en C y C++ para los implantes del Cobalt Strike y montar una infraestructura de C2 con redirectores.",
+        "cardDetailedText": "",
+        "media": {
+            "type": "IMAGE",
+            "source": {
+                "url": "../images/cert/crtl.png"
+            }
+        }
+    },
+
+    {
+        "title": "Apr 2024",
+        "cardTitle": "Master en Ciberseguridad",
+        "url": "https://www.unir.net/",
+        "cardSubtitle":"El Máster en Ciberseguridad de UNIR es el primer postgrado oficial, con docencia exclusivamente online, en el que aprenderás las técnicas más efectivas para luchar contra los ciberataques. Avalado por una trayectoria de más de una década y con más de 3.000 estudiantes formados, te prepara de manera práctica para saber actuar frente a las amenazas y ataques de los criminales",
+        "cardDetailedText": "",
+        "media": {
+            "type": "IMAGE",
+            "source": {
+                "url": "../images/logos/unir_logo_u.png"
+            }
+        }
+    },
+    {
         "title": "Apr 2024",
         "cardTitle": "CARTE Certified",
         "url": "https://www.alteredsecurity.com/azureadvanced",
