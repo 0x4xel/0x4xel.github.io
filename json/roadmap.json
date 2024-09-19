@@ -1,5 +1,31 @@
 [  
     {
+        "title": "Sept 2024",
+        "cardTitle": "OSWE Certified",
+        "url": "https://www.offsec.com/courses/web-300/",
+        "cardSubtitle":"El curso AWAE de OffSec ofrece una vision de las metodologías y técnicas pentest web, proporcionando formación práctica en hacking ético y desarrollo de exploits. Al completar su examen, se otorga la certificación OSWE, que acredita competencias avanzadas en este ámbito.",
+        "cardDetailedText": "",
+        "media": {
+            "type": "IMAGE",
+            "source": {
+                "url": "../images/cert/oswe.png"
+            }
+        }
+    },
+    {
+        "title": "Jul 2024",
+        "cardTitle": "Senior Offensive Security Consultant",
+        "url": "https://www.zerolynx.com/",
+        "cardSubtitle":"Consultor de seguridad ofensiva encargado de operar en diferentes ejercicios de Red Team y auditorias.",
+        "cardDetailedText": "",
+        "media": {
+            "type": "IMAGE",
+            "source": {
+                "url": "../images/logos/zerolynx_blanco.jpeg"
+            }
+        }
+    }, 
+    {
         "title": "May 2024",
         "cardTitle": "CRTL Certified",
         "url": "https://training.zeropointsecurity.co.uk/courses/red-team-ops-ii",
@@ -56,7 +82,7 @@
         "title": "Jan 2024",
         "cardTitle": "Pentester & Security Researcher",
         "url": "https://www.mnemo.com/",
-        "cardSubtitle":"Auditor de seguridad ofensiva encargado de operar en ejercicios de auditorias Web, Infra, OT, Móviles, entre otros. Investigador en diferentes ámbitos de la seguridad informática",
+        "cardSubtitle":"Consutlor de seguridad ofensiva encargado de operar en ejercicios de auditorias Web, Infra, OT, Móviles, entre otros. Investigador en diferentes ámbitos de la seguridad informática",
         "cardDetailedText": "",
         "media": {
             "type": "IMAGE",

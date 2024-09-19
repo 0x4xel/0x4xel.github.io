@@ -18,11 +18,11 @@
         "timeline": "Timeline"
     },
 
-    "full_stack_developer": "Pentester &",
-    "pentester_at_mnemo": " Security Researcher.",
+    "full_stack_developer": "Senior",
+    "pentester_at_zl": " Offensive Security Consultant.",
     "animacion": {
         "animacion1": "Desarrollador Full Stack",
-        "animacion2": "Security Researcher",
+        "animacion2": "Offensive Security Consultant",
         "animacion3": "Experto en <strong>romper cosas<strong>"
     },
     "about": {
@@ -32,7 +32,7 @@
         "residencia_titulo": "Provincia Natal:",
         "residencia":"Navarra, España",
         "estado_titulo":"Puesto Actual:",
-        "estado": "Pentester & Security Researcher en Mnemo",
+        "estado": "Senior Offensive Security Consultant @ Zerolynx",
         "direccion_titulo": "Dirección:",
         "direccion": "Madrid y alrededores",
         "telefono_titulo": "Teléfono:",
@@ -90,7 +90,7 @@
         "direccion_titulo": "Dirección:",
         "direccion": "Madrid y alrededores",
         "estado_titulo":"Puesto Actual:",
-        "estado": "Pentester & Security Researcher en Mnemo"
+        "estado": "Offensive Security Consultant @ Zerolynx"
     },
 
     "footer": {

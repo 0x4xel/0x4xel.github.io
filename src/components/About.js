@@ -28,9 +28,7 @@ export const About = () => {
               <li>
                 <strong>{t("about.direccion_titulo")}</strong> {t("about.direccion")}
               </li>
-              <li>
-                <strong>{t("about.telefono_titulo")}</strong> {t("about.telefono")}
-              </li>
+             
               <li>
                 <strong>{t("about.email_titulo")}</strong> {t("about.email")}
               </li>

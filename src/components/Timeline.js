@@ -39,7 +39,7 @@ export const Timeline = () => {
                     <div className="title_inner">{t("roadmap.titulo")}</div>
                 </div>
             <div className="content-box">
-                <div class ="ancho100">
+                <div className ="ancho100">
                     <Chrono items={items} mode={`${isMobile ? "VERTICAL" : "VERTICAL_ALTERNATING"}`} borderLessCards="true" useReadMore="true" scrollable  cardHeight="400"
                      classNames={{
                         card: 'roadmap-step',

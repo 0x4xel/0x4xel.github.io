@@ -61,6 +61,10 @@
     {
         "imagen": "images/cert/crtl.png",
         "enlace": "https://api.eu.badgr.io/public/assertions/s-EO9QqbSyqJ6DUKoBQgrQ"
+    },
+    {
+        "imagen": "images/cert/oswe.png",
+        "enlace": "https://www.credential.net/e5f63e6b-8f35-4646-b2ed-de8da1f82385"
     }
 ] 
         

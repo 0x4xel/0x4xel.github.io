@@ -113,7 +113,7 @@ const IndexOnePage = () => {
         {/* Section Service */}
         <Service />
         {/* Section Contacts Info */}
-        <ContactSection />
+        {/*  <ContactSection /> */}
       
       </div>
     </Layout>
