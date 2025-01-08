@@ -1,5 +1,18 @@
 [  
     {
+        "title": "Nov 2024",
+        "cardTitle": "Evasión de Medidas de Seguridad en Active Directory: técnicas avanzadas y herramientas de OPSEC",
+        "url": "https://jornadas.ccn-cert.cni.es/es/xviiijornadas-programa-general/xviii-jornadas-ccn-cert/ponencia/evasion-de-medidas-de-seguridad-en-active-directory",
+        "cardSubtitle":"Se propone un taller de dos horas centrado en la seguridad de Active Directory, con un enfoque particular en técnicas avanzadas de evasión de medidas de seguridad. Este taller se distingue tanto por su aplicación práctica de técnicas OPSEC y la evasión de mecanismos de defensa, como el análisis estático basado en reglas YARA y la protección de Windows Defender. Además, se incorpora una herramienta de SIEM/HIDS para detección de ataques basados en firmas.",
+        "cardDetailedText": "",
+        "media": {
+            "type": "IMAGE",
+            "source": {
+                "url": "../images/logos/ccn-cert.png"
+            }
+        }
+    },
+    {
         "title": "Sept 2024",
         "cardTitle": "OSWE Certified",
         "url": "https://www.offsec.com/courses/web-300/",
