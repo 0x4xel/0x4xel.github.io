@@ -1,5 +1,84 @@
 [  
     {
+        "title": "Aug 2025",
+        "cardTitle": "OSCE3 Certified ",
+        "url": "https://www.offsec.com/certificates/osce3/",
+        "cardSubtitle":"La certificación OSCE³ (OffSec Certified Expert³) se obtiene automáticamente tras completar y aprobar tres cursos avanzados de Offensive Security: WEB-300 (OSWE), PEN-300 (OSEP) y EXP-301 (OSED). Acredita dominio en ataques web, evasión de defensas avanzadas y desarrollo de exploits en Windows, incluyendo ingeniería inversa y bypass de mitigaciones como DEP y ASLR",
+        "cardDetailedText": "",
+        "media": {
+            "type": "IMAGE",
+            "source": {
+                "url": "../images/cert/osce3.png"
+            }
+        }
+    },
+    {
+        "title": "Aug 2025",
+        "cardTitle": "OSED Certified ",
+        "url": "https://www.offsec.com/courses/exp-301/",
+        "cardSubtitle":"Aborda técnicas avanzadas como desbordamientos de pila, ingeniería inversa, análisis dinámico y escritura de shellcode, además del bypass de mitigaciones modernas como DEP y ASLR. El programa combina teoría, laboratorios prácticos y retos diseñados para consolidar conocimientos y preparar al alumno para el examen de certificación, acreditando competencias en explotación avanzada y descubrimiento de vulnerabilidades.",
+        "cardDetailedText": "",
+        "media": {
+            "type": "IMAGE",
+            "source": {
+                "url": "../images/cert/osed.png"
+            }
+        }
+    },
+    {
+        "title": "May 2025",
+        "cardTitle": "Docente en KSchool ",
+        "url": "https://kschool.com/master/master-hacking-etico/",
+        "cardSubtitle":"Docente en el Máster de Hacking Ético, participando en el módulo especializado en ataques al Directorio Activo. La formación abordó técnicas de explotación y persistencia en entornos corporativos, así como medidas defensivas para su detección y mitigación. Los alumnos aplicaron prácticas reales con herramientas de uso profesional, orientadas a comprender el ciclo completo de un ataque en infraestructuras basadas en Active Directory.",
+        "cardDetailedText": "",
+        "media": {
+            "type": "IMAGE",
+            "source": {
+                "url": "../images/logos/logo_kschool.png"
+            }
+        }
+    },
+
+    {
+        "title": "May 2025",
+        "cardTitle": "Locked Shields",
+        "url": "https://ccdcoe.org/locked-shields/",
+        "cardSubtitle":"Participé en Locked Shields 2025, el mayor ejercicio de ciberdefensa en vivo organizado por la OTAN, con más de 4.000 profesionales de 41 países. Representé a España en el Blue Team 15, junto a integrantes de Brasil y Suiza, defendiendo infraestructuras críticas frente a ciberataques a gran escala. Dentro del grupo de sistemas Linux, formé parte del Rapid Response Team, donde realicé mitigación de incidentes, restauración de servicios y análisis de las técnicas del adversario para detectar, contener y expulsar al Red Team de los sistemas comprometidos.",
+        "cardDetailedText": "",
+        "media": {
+            "type": "IMAGE",
+            "source": {
+                "url": "../images/logos/locked_shields_bg.png"
+            }
+        }
+    },
+    {
+        "title": "Mar 2025",
+        "cardTitle": "Active Directory Attacks",
+        "url": "https://rootedcon.com/eventos/rootedcon-madrid/",
+        "cardSubtitle":"El taller está diseñado para profesionales de ciberseguridad, administradores de sistemas, analistas y auditores de seguridad interesados en aprender acerca de pentesting en Directorio Activo. Es adecuado tanto para principiantes que quieran iniciarse en la seguridad de AD como para usuarios intermedios que deseen profundizar en técnicas avanzadas de explotación.",
+        "cardDetailedText": "",
+        "media": {
+            "type": "IMAGE",
+            "source": {
+                "url": "../images/logos/rooted_logo.jpeg"
+            }
+        }
+    },
+    {
+        "title": "Feb 2025",
+        "cardTitle": "Stop Copy&Paste, Understanding AMSI Bypasses",
+        "url": "https://hackon.es/charlas/Axel_y_Justo.html",
+        "cardSubtitle":"En el día a día de un auditor, suele ser necesario realizar evasiones en las medidas de seguridad. Una de las mas conocidas es la evasión de AMSI. Estamos acostumbrados lanzar comandos que internamente hagan \"magia\" pero no entendemos que esta pasando por detrás. En esta charla hablaremos sobre AMSI y desvelaremos el truco que hay detrás.",
+        "cardDetailedText": "",
+        "media": {
+            "type": "IMAGE",
+            "source": {
+                "url": "../images/logos/HackOn.png"
+            }
+        }
+    },
+    {
         "title": "Nov 2024",
         "cardTitle": "Evasión de Medidas de Seguridad en Active Directory: técnicas avanzadas y herramientas de OPSEC",
         "url": "https://jornadas.ccn-cert.cni.es/es/xviiijornadas-programa-general/xviii-jornadas-ccn-cert/ponencia/evasion-de-medidas-de-seguridad-en-active-directory",

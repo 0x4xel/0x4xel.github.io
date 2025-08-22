@@ -65,6 +65,14 @@
     {
         "imagen": "images/cert/oswe.png",
         "enlace": "https://www.credential.net/e5f63e6b-8f35-4646-b2ed-de8da1f82385"
+    },
+    {
+        "imagen": "images/cert/osed.png",
+        "enlace": "https://credentials.offsec.com/efe400f9-f6bc-4d54-9776-9ac61b660e36"
+    },
+    {
+        "imagen": "images/cert/osce3.png",
+        "enlace": "https://credentials.offsec.com/0cacbc97-5bd9-4b02-8853-66d3306b4cf5"
     }
 ] 
         
